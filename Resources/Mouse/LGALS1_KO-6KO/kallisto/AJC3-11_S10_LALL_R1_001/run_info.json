@@ -1,0 +1,13 @@
+{
+	"n_targets": 115270,
+	"n_bootstraps": 100,
+	"n_processed": 63023037,
+	"n_pseudoaligned": 25012402,
+	"n_unique": 9570964,
+	"p_pseudoaligned": 39.7,
+	"p_unique": 15.2,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Sat Dec 15 02:56:30 2018",
+	"call": "kallisto quant -i genomes/Musmusculus/kallistoIndex/transcripts.idx -o sequences/gal1ko/kallisto/AJC3-11_S10_LALL_R1_001 -t 4 -b 100 --single -l 75 -s 20 sequences/gal1ko/trimmed/AJC3-11_S10_LALL_R1_001.fastq"
+}

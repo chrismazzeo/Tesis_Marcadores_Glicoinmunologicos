@@ -1,0 +1,13 @@
+{
+	"n_targets": 115270,
+	"n_bootstraps": 0,
+	"n_processed": 38659471,
+	"n_pseudoaligned": 35199654,
+	"n_unique": 12423697,
+	"p_pseudoaligned": 91.1,
+	"p_unique": 32.1,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Thu Feb 28 19:53:22 2019",
+	"call": "kallisto quant -i genomes/Musmusculus/kallistoIndex/transcripts.idx -o sequences/GSE57533/kallisto/SRR1283818 -t 4 sequences/GSE57533/trimmed/SRR1283818_1.fastq sequences/GSE57533/trimmed/SRR1283818_2.fastq"
+}

@@ -1,0 +1,675 @@
+ensembl_gene_id,external_gene_name,Group
+ENSG00000184389,A3GALT2,Glycosyltransferase
+ENSG00000128274,A4GALT,Glycosyltransferase
+ENSG00000118017,A4GNT,Glycosyltransferase
+ENSG00000114771,AADAC,Carbohydrate Esterase
+ENSG00000097007,ABL1,Housekeeping Gene
+ENSG00000175164,ABO,Glycosyltransferase
+ENSG00000281879,ABO,Glycosyltransferase
+ENSG00000157766,ACAN,Lectin/C-type/Proteoglycan
+ENSG00000167769,ACER1,Glycolipid Related
+ENSG00000087085,ACHE,Carbohydrate Esterase
+ENSG00000075624,ACTB,Housekeeping Gene
+ENSG00000185736,ADARB2,Housekeeping Gene
+ENSG00000196526,AFAP1,Housekeeping Gene
+ENSG00000038002,AGA,Glycolipid Related
+ENSG00000162688,AGL,Glycosylhydrolase
+ENSG00000188157,AGRN,Lectin/Misc. Glycan-binding/Agrin
+ENSG00000136872,ALDOB,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000109107,ALDOC,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000033011,ALG1,Glycosyltransferase
+ENSG00000175548,ALG10B,Glycosyltransferase
+ENSG00000253710,ALG11,Glycosyltransferase
+ENSG00000182858,ALG12,Glycosyltransferase
+ENSG00000101901,ALG13,Glycosyltransferase
+ENSG00000172339,ALG14,Glycosyltransferase
+ENSG00000119523,ALG2,Glycosyltransferase
+ENSG00000214160,ALG3,Glycosyltransferase
+ENSG00000120697,ALG5,Glycosyltransferase
+ENSG00000088035,ALG6,Glycosyltransferase
+ENSG00000159063,ALG8,Glycosyltransferase
+ENSG00000086848,ALG9,Glycosyltransferase
+ENSG00000162066,AMDHD2,Carbohydrate Esterase
+ENSG00000196975,ANXA4,Lectin/Misc. Glycan-binding/Annexin
+ENSG00000164111,ANXA5,Lectin/Misc. Glycan-binding/Annexin
+ENSG00000138279,ANXA7,Lectin/Misc. Glycan-binding/Annexin
+ENSG00000143412,ANXA9,Lectin/Misc. Glycan-binding/Annexin
+ENSG00000136250,AOAH,Glycolipid Related
+ENSG00000164062,APEH,Carbohydrate Esterase
+ENSG00000100299,ARSA,Sulfate Related/Arylsulfatase
+ENSG00000113273,ARSB,Sulfate Related/Arylsulfatase
+ENSG00000141337,ARSG,Sulfate Related/Arylsulfatase
+ENSG00000183876,ARSI,Sulfate Related/Arylsulfatase
+ENSG00000188611,ASAH2,Glycolipid Related
+ENSG00000141505,ASGR1,Lectin/C-type/Type 2 Receptor
+ENSG00000161944,ASGR2,Lectin/C-type/Type 2 Receptor
+ENSG00000088812,ATRN,Lectin/C-type/Attractin
+ENSG00000107518,ATRNL1,Lectin/C-type/Attractin
+ENSG00000273686,B2M,Housekeeping Gene
+ENSG00000166710,B2M,Housekeeping Gene
+ENSG00000169255,B3GALNT1,Glycosyltransferase
+ENSG00000282880,B3GALNT2,Glycosyltransferase
+ENSG00000162885,B3GALNT2,Glycosyltransferase
+ENSG00000172318,B3GALT1,Glycosyltransferase
+ENSG00000162630,B3GALT2,Glycosyltransferase
+ENSG00000226936,B3GALT4,Glycosyltransferase
+ENSG00000206285,B3GALT4,Glycosyltransferase
+ENSG00000235863,B3GALT4,Glycosyltransferase
+ENSG00000236802,B3GALT4,Glycosyltransferase
+ENSG00000235155,B3GALT4,Glycosyltransferase
+ENSG00000183778,B3GALT5,Glycosyltransferase
+ENSG00000176022,B3GALT6,Glycosyltransferase
+ENSG00000109956,B3GAT1,Glycosyltransferase
+ENSG00000112309,B3GAT2,Glycosyltransferase
+ENSG00000149541,B3GAT3,Glycosyltransferase
+ENSG00000187676,B3GLCT,Glycosyltransferase
+ENSG00000170340,B3GNT2,Glycosyltransferase
+ENSG00000179913,B3GNT3,Glycosyltransferase
+ENSG00000176383,B3GNT4,Glycosyltransferase
+ENSG00000176597,B3GNT5,Glycosyltransferase
+ENSG00000198488,B3GNT6,Glycosyltransferase
+ENSG00000156966,B3GNT7,Glycosyltransferase
+ENSG00000177191,B3GNT8,Glycosyltransferase
+ENSG00000237172,B3GNT9,Glycosyltransferase
+ENSG00000175711,B3GNTL1,Glycosyltransferase
+ENSG00000277033,B3GNTL1,Glycosyltransferase
+ENSG00000135454,B4GALNT1,Glycosyltransferase
+ENSG00000167080,B4GALNT2,Glycosyltransferase
+ENSG00000139044,B4GALNT3,Glycosyltransferase
+ENSG00000182272,B4GALNT4,Glycosyltransferase
+ENSG00000086062,B4GALT1,Glycosyltransferase
+ENSG00000117411,B4GALT2,Glycosyltransferase
+ENSG00000158850,B4GALT3,Glycosyltransferase
+ENSG00000121578,B4GALT4,Glycosyltransferase
+ENSG00000158470,B4GALT5,Glycosyltransferase
+ENSG00000118276,B4GALT6,Glycosyltransferase
+ENSG00000027847,B4GALT7,Glycosyltransferase
+ENSG00000174684,B4GAT1,Glycosyltransferase
+ENSG00000132692,BCAN,Lectin/C-type/Proteoglycan
+ENSG00000114200,BCHE,Carbohydrate Esterase
+ENSG00000182492,BGN,Glycosaminoglycan Related
+ENSG00000106392,C1GALT1,Glycosyltransferase
+ENSG00000171155,C1GALT1C1,Glycosyltransferase
+ENSG00000179218,CALR,Lectin/Calnexin-like
+ENSG00000283777,CANX,Lectin/Calnexin-like
+ENSG00000127022,CANX,Lectin/Calnexin-like
+ENSG00000116031,CD207,Lectin/C-type/Type 2 Receptor
+ENSG00000012124,CD22,Lecitn/I-type/Siglec
+ENSG00000174807,CD248,Lectin/C-type/Endosialin
+ENSG00000241399,CD302,Lectin/C-type/Acidic Neck CTLD
+ENSG00000105383,CD33,Lectin/I-type/CD33-Related
+ENSG00000174059,CD34,Glycosaminoglycan Related
+ENSG00000026508,CD44,Glycosaminoglycan Related
+ENSG00000110848,CD69,Lectin/C-type/NK Receptor
+ENSG00000137101,CD72,Lectin/C-type/NK Receptor
+ENSG00000019582,CD74,Glycosaminoglycan Related
+ENSG00000112149,CD83,Lectin/I-type/Non-Siglec
+ENSG00000125810,CD93,Lectin/C-type/Endosialin
+ENSG00000170835,CEL,Carbohydrate Esterase
+ENSG00000167123,CERCAM,Glycosyltransferase
+ENSG00000100422,CERK,Glycolipid Related
+ENSG00000223802,CERS1,Glycolipid Related
+ENSG00000143418,CERS2,Glycolipid Related
+ENSG00000090661,CERS4,Glycolipid Related
+ENSG00000139624,CERS5,Glycolipid Related
+ENSG00000172292,CERS6,Glycolipid Related
+ENSG00000261972,CES5A,Carbohydrate Esterase
+ENSG00000159398,CES5A,Carbohydrate Esterase
+ENSG00000100604,CHGA,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000276781,CHGA,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000154645,CHODL,Lectin/C-type/Type 1 Receptor
+ENSG00000123989,CHPF,Glycosyltransferase
+ENSG00000033100,CHPF2,Glycosyltransferase
+ENSG00000175264,CHST1,Sulfate Related/Sulfotransferase
+ENSG00000115526,CHST10,Sulfate Related/Sulfotransferase
+ENSG00000171310,CHST11,Sulfate Related/Sulfotransferase
+ENSG00000136213,CHST12,Sulfate Related/Sulfotransferase
+ENSG00000169105,CHST14,Sulfate Related/Sulfotransferase
+ENSG00000182022,CHST15,Sulfate Related/Sulfotransferase
+ENSG00000175040,CHST2,Sulfate Related/Sulfotransferase
+ENSG00000122863,CHST3,Sulfate Related/Sulfotransferase
+ENSG00000140835,CHST4,Sulfate Related/Sulfotransferase
+ENSG00000135702,CHST5,Sulfate Related/Sulfotransferase
+ENSG00000147119,CHST7,Sulfate Related/Sulfotransferase
+ENSG00000124302,CHST8,Sulfate Related/Sulfotransferase
+ENSG00000154080,CHST9,Sulfate Related/Sulfotransferase
+ENSG00000131873,CHSY1,Glycosyltransferase
+ENSG00000198108,CHSY3,Glycosyltransferase
+ENSG00000132514,CLEC10A,Lectin/C-type/Type 2 Receptor
+ENSG00000105472,CLEC11A,Lectin/C-type/Tetranectin
+ENSG00000176435,CLEC14A,Lectin/C-type/Endosialin
+ENSG00000157322,CLEC18A,Lectin/C-type/Macrophage Mannose Receptor
+ENSG00000150048,CLEC1A,Lectin/C-type/NK Receptor
+ENSG00000165682,CLEC1B,Lectin/C-type/NK Receptor
+ENSG00000069493,CLEC2D,Lectin/C-type/NK Receptor
+ENSG00000166509,CLEC3A,Lectin/C-type/Tetranectin
+ENSG00000163815,CLEC3B,Lectin/C-type/Tetranectin
+ENSG00000166527,CLEC4D,Lectin/C-type/Type 2 Receptor
+ENSG00000166523,CLEC4E,Lectin/C-type/Type 2 Receptor
+ENSG00000152672,CLEC4F,Lectin/C-type/Type 2 Receptor
+ENSG00000182566,CLEC4G,Lectin/C-type/Type 2 Receptor
+ENSG00000258227,CLEC5A,Lectin/C-type/NK Receptor
+ENSG00000172243,CLEC7A,Lectin/C-type/NK Receptor
+ENSG00000111726,CMAS,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000187955,COL14A1,Glycosaminoglycan Related
+ENSG00000113163,COL4A3BP,Glycolipid Related
+ENSG00000049089,COL9A2,Glycosaminoglycan Related
+ENSG00000184374,COLEC10,Lectin/C-type/Collectin
+ENSG00000158270,COLEC12,Lectin/C-type/Type 2 Receptor
+ENSG00000130309,COLGALT1,Glycosyltransferase
+ENSG00000198756,COLGALT2,Glycosyltransferase
+ENSG00000112297,CRYBG1,Carbohydrate Binding Module
+ENSG00000176092,CRYBG2,Carbohydrate Binding Module
+ENSG00000080200,CRYBG3,Carbohydrate Binding Module
+ENSG00000147408,CSGALNACT1,Glycosyltransferase
+ENSG00000169826,CSGALNACT2,Glycosyltransferase
+ENSG00000173546,CSPG4,Glycosaminoglycan Related
+ENSG00000114646,CSPG5,Glycosaminoglycan Related
+ENSG00000117151,CTBS,Glycosylhydrolase
+ENSG00000040531,CTNS,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000064601,CTSA,Miscellaneous
+ENSG00000100243,CYB5R3,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000129562,DAD1,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000173402,DAG1,Glycosaminoglycan Related
+ENSG00000011465,DCN,Glycosaminoglycan Related
+ENSG00000244038,DDOST,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000143753,DEGS1,Glycolipid Related
+ENSG00000168350,DEGS2,Glycolipid Related
+ENSG00000070413,DGCR2,Lectin/C-type/IDD
+ENSG00000175283,DOLK,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000172269,DPAGT1,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000000419,DPM1,Glycosyltransferase
+ENSG00000136908,DPM2,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000179085,DPM3,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000175497,DPP10,Carbohydrate Esterase
+ENSG00000197635,DPP4,Carbohydrate Esterase
+ENSG00000111817,DSE,Glycosaminoglycan Related
+ENSG00000262102,DSEL,Glycosaminoglycan Related
+ENSG00000171451,DSEL,Glycosaminoglycan Related
+ENSG00000134109,EDEM1,Glycosylhydrolase
+ENSG00000088298,EDEM2,Glycosylhydrolase
+ENSG00000116406,EDEM3,Glycosylhydrolase
+ENSG00000254772,EEF1G,Housekeeping Gene
+ENSG00000066322,ELOVL1,Glycolipid Related
+ENSG00000197977,ELOVL2,Glycolipid Related
+ENSG00000119915,ELOVL3,Glycolipid Related
+ENSG00000118402,ELOVL4,Glycolipid Related
+ENSG00000012660,ELOVL5,Glycolipid Related
+ENSG00000170522,ELOVL6,Glycolipid Related
+ENSG00000167280,ENGASE,Glycosylhydrolase
+ENSG00000163378,EOGT,Glycosyltransferase
+ENSG00000112425,EPM2A,Carbohydrate Binding Module
+ENSG00000139684,ESD,Carbohydrate Esterase
+ENSG00000182197,EXT1,Glycosyltransferase
+ENSG00000151348,EXT2,Glycosyltransferase
+ENSG00000158008,EXTL1,Glycosyltransferase
+ENSG00000162694,EXTL2,Glycosyltransferase
+ENSG00000012232,EXTL3,Glycosyltransferase
+ENSG00000165140,FBP1,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000130957,FBP2,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000116661,FBXO2,Lectin/F-box
+ENSG00000113578,FGF1,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000070193,FGF10,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000283903,FGF11,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000161958,FGF11,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000114279,FGF12,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000129682,FGF13,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000102466,FGF14,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000196468,FGF16,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000158815,FGF17,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000156427,FGF18,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000138685,FGF2,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000078579,FGF20,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000105550,FGF21,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000118972,FGF23,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000186895,FGF3,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000075388,FGF4,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000138675,FGF5,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000140285,FGF7,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000107831,FGF8,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000102678,FGF9,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSG00000077782,FGFR1,Glycosaminoglycan Related/Fibroblast Growth Factor Receptor
+ENSG00000066468,FGFR2,Glycosaminoglycan Related/Fibroblast Growth Factor Receptor
+ENSG00000068078,FGFR3,Glycosaminoglycan Related/Fibroblast Growth Factor Receptor
+ENSG00000160867,FGFR4,Glycosaminoglycan Related/Fibroblast Growth Factor Receptor
+ENSG00000181027,FKRP,Glycosaminoglycan Related
+ENSG00000106692,FKTN,Miscellaneous
+ENSG00000122176,FMOD,Glycosaminoglycan Related
+ENSG00000254685,FPGT,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000179163,FUCA1,Glycosylhydrolase
+ENSG00000001036,FUCA2,Glycosylhydrolase
+ENSG00000174951,FUT1,Glycosyltransferase
+ENSG00000172728,FUT10,Glycosyltransferase
+ENSG00000196968,FUT11,Glycosyltransferase
+ENSG00000176920,FUT2,Glycosyltransferase
+ENSG00000196371,FUT4,Glycosyltransferase
+ENSG00000180549,FUT7,Glycosyltransferase
+ENSG00000033170,FUT8,Glycosyltransferase
+ENSG00000172461,FUT9,Glycosyltransferase
+ENSG00000131482,G6PC,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000278373,G6PC2,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000152254,G6PC2,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000171298,GAA,Glycosylhydrolase
+ENSG00000128242,GAL3ST1,Sulfate Related/Sulfotransferase
+ENSG00000154252,GAL3ST2,Sulfate Related/Sulfotransferase
+ENSG00000276126,GAL3ST2,Sulfate Related/Sulfotransferase
+ENSG00000175229,GAL3ST3,Sulfate Related/Sulfotransferase
+ENSG00000197093,GAL3ST4,Sulfate Related/Sulfotransferase
+ENSG00000054983,GALC,Glycosylhydrolase
+ENSG00000117308,GALE,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000108479,GALK1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000156958,GALK2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000141012,GALNS,Sulfate Related/Sulfatase
+ENSG00000141429,GALNT1,Glycosyltransferase
+ENSG00000164574,GALNT10,Glycosyltransferase
+ENSG00000178234,GALNT11,Glycosyltransferase
+ENSG00000119514,GALNT12,Glycosyltransferase
+ENSG00000144278,GALNT13,Glycosyltransferase
+ENSG00000158089,GALNT14,Glycosyltransferase
+ENSG00000131386,GALNT15,Glycosyltransferase
+ENSG00000185274,GALNT17,Glycosyltransferase
+ENSG00000110328,GALNT18,Glycosyltransferase
+ENSG00000143641,GALNT2,Glycosyltransferase
+ENSG00000115339,GALNT3,Glycosyltransferase
+ENSG00000257594,GALNT4,Glycosyltransferase
+ENSG00000136542,GALNT5,Glycosyltransferase
+ENSG00000139629,GALNT6,Glycosyltransferase
+ENSG00000109586,GALNT7,Glycosyltransferase
+ENSG00000182870,GALNT9,Glycosyltransferase
+ENSG00000106648,GALNTL5,Glycosyltransferase
+ENSG00000174473,GALNTL6,Glycosyltransferase
+ENSG00000213930,GALT,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000089597,GANAB,Glycosylhydrolase
+ENSG00000214013,GANC,Glycosylhydrolase
+ENSG00000111640,GAPDH,Housekeeping Gene
+ENSG00000177628,GBA,Glycosylhydrolase
+ENSG00000262446,GBA,Glycosylhydrolase
+ENSG00000114480,GBE1,Glycosylhydrolase
+ENSG00000148288,GBGT1,Glycosyltransferase
+ENSG00000106633,GCK,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000187210,GCNT1,Glycosyltransferase
+ENSG00000285222,GCNT2,Glycosyltransferase
+ENSG00000111846,GCNT2,Glycosyltransferase
+ENSG00000140297,GCNT3,Glycosyltransferase
+ENSG00000124091,GCNT7,Glycosyltransferase
+ENSG00000198380,GFPT1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000131459,GFPT2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000102393,GLA,Glycosylhydrolase
+ENSG00000170266,GLB1,Glycosylhydrolase
+ENSG00000163521,GLB1L,Glycosylhydrolase
+ENSG00000149328,GLB1L2,Glycosylhydrolase
+ENSG00000166105,GLB1L3,Glycosylhydrolase
+ENSG00000138604,GLCE,Glycosaminoglycan Related
+ENSG00000204007,GLT6D1,Glycosyltransferase
+ENSG00000016864,GLT8D1,Glycosyltransferase
+ENSG00000120820,GLT8D2,Glycosyltransferase
+ENSG00000139433,GLTP,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000257780,GLYCAM1,Glycosaminoglycan Related
+ENSG00000196743,GM2A,Glycolipid Related
+ENSG00000112699,GMDS,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000144591,GMPPA,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000173540,GMPPB,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000078369,GNB1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000159921,GNE,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000113552,GNPDA1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000100522,GNPNAT1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000111670,GNPTAB,Miscellaneous
+ENSG00000090581,GNPTG,Lectin/P-Type
+ENSG00000197858,GPAA1,GPI anchor biosynthesis Related
+ENSG00000063660,GPC1,Glycosaminoglycan Related
+ENSG00000213420,GPC2,Glycosaminoglycan Related
+ENSG00000147257,GPC3,Glycosaminoglycan Related
+ENSG00000076716,GPC4,Glycosaminoglycan Related
+ENSG00000179399,GPC5,Glycosaminoglycan Related
+ENSG00000183098,GPC6,Glycosaminoglycan Related
+ENSG00000112293,GPLD1,GPI anchor biosynthesis Related
+ENSG00000136235,GPNMB,Lectin/Misc. Glycan-binding/GAG-binding
+ENSG00000275572,GRIFIN,Lectin/S-Type/Galectin
+ENSG00000121964,GTDC1,Glycosyltransferase
+ENSG00000169919,GUSB,Glycosylhydrolase
+ENSG00000172986,GXYLT2,Glycosyltransferase
+ENSG00000104812,GYS1,Glycosyltransferase
+ENSG00000111713,GYS2,Glycosyltransferase
+ENSG00000049239,H6PD,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000130956,HABP4,Lectin/Misc. Glycan-binding/GAG-binding
+ENSG00000105509,HAS1,Glycosyltransferase
+ENSG00000170961,HAS2,Glycosyltransferase
+ENSG00000103044,HAS3,Glycosyltransferase
+ENSG00000213614,HEXA,Glycosylhydrolase
+ENSG00000049860,HEXB,Glycosylhydrolase
+ENSG00000156515,HK1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000159399,HK2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000160883,HK3,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000256269,HMBS,Housekeeping Gene
+ENSG00000281702,HMBS,Housekeeping Gene
+ENSG00000072571,HMMR,Lectin/Misc. Glycan-binding/GAG-binding
+ENSG00000173083,HPSE,Glycosylhydrolase
+ENSG00000172987,HPSE2,Glycosylhydrolase
+ENSG00000153936,HS2ST1,Sulfate Related/Sulfotransferase
+ENSG00000002587,HS3ST1,Sulfate Related/Sulfotransferase
+ENSG00000122254,HS3ST2,Sulfate Related/Sulfotransferase
+ENSG00000153976,HS3ST3A1,Sulfate Related/Sulfotransferase
+ENSG00000125430,HS3ST3B1,Sulfate Related/Sulfotransferase
+ENSG00000249853,HS3ST5,Sulfate Related/Sulfotransferase
+ENSG00000162040,HS3ST6,Sulfate Related/Sulfotransferase
+ENSG00000276333,HS3ST6,Sulfate Related/Sulfotransferase
+ENSG00000136720,HS6ST1,Sulfate Related/Sulfotransferase
+ENSG00000171004,HS6ST2,Sulfate Related/Sulfotransferase
+ENSG00000185352,HS6ST3,Sulfate Related/Sulfotransferase
+ENSG00000142798,HSPG2,Glycosaminoglycan Related
+ENSG00000114378,HYAL1,Glycosylhydrolase
+ENSG00000068001,HYAL2,Glycosylhydrolase
+ENSG00000186792,HYAL3,Glycosylhydrolase
+ENSG00000106302,HYAL4,Glycosylhydrolase
+ENSG00000090339,ICAM1,Lectin/I-type/Non-Siglec
+ENSG00000108622,ICAM2,Lectin/I-type/Non-Siglec
+ENSG00000105376,ICAM5,Lectin/I-type/Non-Siglec
+ENSG00000010404,IDS,Sulfate Related/Sulfatase
+ENSG00000127415,IDUA,Glycosylhydrolase
+ENSG00000005884,ITGA3,Glycosyltransferase
+ENSG00000171223,JUNB,Housekeeping Gene
+ENSG00000138030,KHK,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000133116,KL,Glycosylhydrolase
+ENSG00000134962,KLB,Glycosylhydrolase
+ENSG00000134545,KLRC1,Lectin/C-type/NK Receptor
+ENSG00000205809,KLRC2,Lectin/C-type/NK Receptor
+ENSG00000134539,KLRD1,Lectin/C-type/NK Receptor
+ENSG00000139187,KLRG1,Lectin/C-type/NK Receptor
+ENSG00000213809,KLRK1,Lectin/C-type/NK Receptor
+ENSG00000198910,L1CAM,Lectin/I-type/Non-Siglec
+ENSG00000185896,LAMP1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000005893,LAMP2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000133424,LARGE1,Glycosyltransferase
+ENSG00000165905,LARGE2,Glycosyltransferase
+ENSG00000204381,LAYN,Lectin/C-type/Type 1 Receptor
+ENSG00000115850,LCT,Glycosylhydrolase
+ENSG00000188501,LCTL,Glycosylhydrolase
+ENSG00000106003,LFNG,Glycosyltransferase
+ENSG00000100097,LGALS1,Lectin/S-Type/Galectin
+ENSG00000133317,LGALS12,Lectin/S-Type/Galectin
+ENSG00000100079,LGALS2,Lectin/S-Type/Galectin
+ENSG00000131981,LGALS3,Lectin/S-Type/Galectin
+ENSG00000171747,LGALS4,Lectin/S-Type/Galectin
+ENSG00000282992,LGALS4,Lectin/S-Type/Galectin
+ENSG00000283082,LGALS7,Lectin/S-Type/Galectin
+ENSG00000205076,LGALS7,Lectin/S-Type/Galectin
+ENSG00000116977,LGALS8,Lectin/S-Type/Galectin
+ENSG00000168961,LGALS9,Lectin/S-Type/Galectin
+ENSG00000119862,LGALSL,Lectin/S-Type/Galectin
+ENSG00000107798,LIPA,Glycolipid Related
+ENSG00000074695,LMAN1,Lectin/L-Type
+ENSG00000140506,LMAN1L,Lectin/L-Type
+ENSG00000169223,LMAN2,Lectin/L-Type
+ENSG00000114988,LMAN2L,Lectin/L-Type
+ENSG00000139329,LUM,Glycosaminoglycan Related
+ENSG00000054219,LY75,Lectin/C-type/Macrophage Mannose Receptor
+ENSG00000144214,LYG1,Glycosylhydrolase
+ENSG00000185674,LYG2,Glycosylhydrolase
+ENSG00000120563,LYZL1,Glycosylhydrolase
+ENSG00000157093,LYZL4,Glycosylhydrolase
+ENSG00000275722,LYZL6,Glycosylhydrolase
+ENSG00000277042,LYZL6,Glycosylhydrolase
+ENSG00000003056,M6PR,Lectin/P-Type
+ENSG00000099866,MADCAM1,Glycosaminoglycan Related
+ENSG00000105695,MAG,Lecitn/I-type/Siglec
+ENSG00000198162,MAN1A2,Glycosylhydrolase
+ENSG00000177239,MAN1B1,Glycosylhydrolase
+ENSG00000117643,MAN1C1,Glycosylhydrolase
+ENSG00000112893,MAN2A1,Glycosylhydrolase
+ENSG00000196547,MAN2A2,Glycosylhydrolase
+ENSG00000104774,MAN2B1,Glycosylhydrolase
+ENSG00000013288,MAN2B2,Glycosylhydrolase
+ENSG00000140400,MAN2C1,Glycosylhydrolase
+ENSG00000109323,MANBA,Glycosylhydrolase
+ENSG00000172469,MANEA,Glycosylhydrolase
+ENSG00000185090,MANEAL,Glycosylhydrolase
+ENSG00000127241,MASP1,Lectin/Lecin-Associated Proteins/MASP
+ENSG00000009724,MASP2,Lectin/Lecin-Associated Proteins/MASP
+ENSG00000165471,MBL2,Lectin/C-type/Collectin
+ENSG00000110492,MDK,Lectin/Misc. Glycan-binding/GAG-binding
+ENSG00000100060,MFNG,Glycosyltransferase
+ENSG00000131446,MGAT1,Glycosyltransferase
+ENSG00000168282,MGAT2,Glycosyltransferase
+ENSG00000128268,MGAT3,Glycosyltransferase
+ENSG00000071073,MGAT4A,Glycosyltransferase
+ENSG00000284501,MGAT4B,Glycosyltransferase
+ENSG00000161013,MGAT4B,Glycosyltransferase
+ENSG00000283530,MGAT4C,Glycosyltransferase
+ENSG00000285137,MGAT4C,Glycosyltransferase
+ENSG00000182050,MGAT4C,Glycosyltransferase
+ENSG00000205301,MGAT4D,Glycosyltransferase
+ENSG00000152127,MGAT5,Glycosyltransferase
+ENSG00000167889,MGAT5B,Glycosyltransferase
+ENSG00000115275,MOGS,Glycosylhydrolase
+ENSG00000129255,MPDU1,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000178802,MPI,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000260314,MRC1,Lectin/C-type/Macrophage Mannose Receptor
+ENSG00000011028,MRC2,Lectin/C-type/Macrophage Mannose Receptor
+ENSG00000138744,NAAA,Glycolipid Related
+ENSG00000198951,NAGA,Glycosylhydrolase
+ENSG00000124357,NAGK,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000108784,NAGLU,Glycosylhydrolase
+ENSG00000103174,NAGPA,Miscellaneous
+ENSG00000095380,NANS,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000149294,NCAM1,Lectin/I-type/Non-Siglec
+ENSG00000130287,NCAN,Lectin/C-type/Proteoglycan
+ENSG00000144959,NCEH1,Carbohydrate Esterase
+ENSG00000070614,NDST1,Sulfate Related/Sulfotransferase
+ENSG00000166507,NDST2,Sulfate Related/Sulfotransferase
+ENSG00000164100,NDST3,Sulfate Related/Sulfotransferase
+ENSG00000138653,NDST4,Sulfate Related/Sulfotransferase
+ENSG00000234343,NEU1,Glycosylhydrolase
+ENSG00000227129,NEU1,Glycosylhydrolase
+ENSG00000184494,NEU1,Glycosylhydrolase
+ENSG00000234846,NEU1,Glycosylhydrolase
+ENSG00000204386,NEU1,Glycosylhydrolase
+ENSG00000228691,NEU1,Glycosylhydrolase
+ENSG00000223957,NEU1,Glycosylhydrolase
+ENSG00000227315,NEU1,Glycosylhydrolase
+ENSG00000115488,NEU2,Glycosylhydrolase
+ENSG00000162139,NEU3,Glycosylhydrolase
+ENSG00000204099,NEU4,Glycosylhydrolase
+ENSG00000277926,NEU4,Glycosylhydrolase
+ENSG00000151092,NGLY1,Miscellaneous
+ENSG00000169992,NLGN2,Carbohydrate Esterase
+ENSG00000283859,NLGN2,Carbohydrate Esterase
+ENSG00000196338,NLGN3,Carbohydrate Esterase
+ENSG00000185269,NOTUM,Carbohydrate Esterase
+ENSG00000135838,NPL,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000205309,NT5M,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000147162,OGT,Glycosyltransferase
+ENSG00000173391,OLR1,Lectin/C-type/NK Receptor
+ENSG00000228474,OST4,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000085465,OVGP1,Glycosylhydrolase
+ENSG00000138801,PAPSS1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000198682,PAPSS2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000167004,PDIA3,Lectin/Lecin-Associated Proteins/PDI
+ENSG00000261371,PECAM1,Lectin/I-type/Non-Siglec
+ENSG00000123836,PFKFB2,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000170525,PFKFB3,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000141959,PFKL,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000152556,PFKM,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000067057,PFKP,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000142102,PGGHG,Glycosylhydrolase
+ENSG00000102144,PGK1,Housekeeping Gene
+ENSG00000079739,PGM1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000013375,PGM3,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000154330,PGM5,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000282833,PHACTR1,Sulfate Related/Sulfotransferase
+ENSG00000112137,PHACTR1,Sulfate Related/Sulfotransferase
+ENSG00000165195,PIGA,Glycosyltransferase
+ENSG00000069943,PIGB,Glycosyltransferase
+ENSG00000135845,PIGC,GPI anchor biosynthesis Related
+ENSG00000151665,PIGF,GPI anchor biosynthesis Related
+ENSG00000174227,PIGG,GPI anchor biosynthesis Related
+ENSG00000100564,PIGH,GPI anchor biosynthesis Related
+ENSG00000142892,PIGK,GPI anchor biosynthesis Related
+ENSG00000108474,PIGL,GPI anchor biosynthesis Related
+ENSG00000143315,PIGM,Glycosyltransferase
+ENSG00000197563,PIGN,GPI anchor biosynthesis Related
+ENSG00000165282,PIGO,GPI anchor biosynthesis Related
+ENSG00000185808,PIGP,GPI anchor biosynthesis Related
+ENSG00000007541,PIGQ,GPI anchor biosynthesis Related
+ENSG00000087111,PIGS,GPI anchor biosynthesis Related
+ENSG00000124155,PIGT,GPI anchor biosynthesis Related
+ENSG00000101464,PIGU,GPI anchor biosynthesis Related
+ENSG00000060642,PIGV,Glycosyltransferase
+ENSG00000275600,PIGW,GPI anchor biosynthesis Related
+ENSG00000277161,PIGW,GPI anchor biosynthesis Related
+ENSG00000163964,PIGX,GPI anchor biosynthesis Related
+ENSG00000119227,PIGZ,Glycosyltransferase
+ENSG00000008710,PKD1,Lectin/C-type/Polycystin
+ENSG00000166473,PKD1L2,Lectin/C-type/Polycystin
+ENSG00000118762,PKD2,Lectin/C-type/Polycystin
+ENSG00000153246,PLA2R1,Lectin/C-type/Macrophage Mannose Receptor
+ENSG00000011422,PLAUR,Glycosaminoglycan Related
+ENSG00000100417,PMM1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000140650,PMM2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000101346,POFUT1,Glycosyltransferase
+ENSG00000186866,POFUT2,Glycosyltransferase
+ENSG00000085998,POMGNT1,Glycosyltransferase
+ENSG00000144647,POMGNT2,Glycosyltransferase
+ENSG00000130714,POMT1,Glycosyltransferase
+ENSG00000009830,POMT2,Glycosyltransferase
+ENSG00000196262,PPIA,Housekeeping Gene
+ENSG00000154415,PPP1R3A,Carbohydrate Binding Module
+ENSG00000173281,PPP1R3B,Carbohydrate Binding Module
+ENSG00000285343,PPP1R3B,Carbohydrate Binding Module
+ENSG00000119938,PPP1R3C,Carbohydrate Binding Module
+ENSG00000049769,PPP1R3F,Carbohydrate Binding Module
+ENSG00000186652,PRG2,Lectin/C-type/Acidic Neck CTLD
+ENSG00000156575,PRG3,Lectin/C-type/Acidic Neck CTLD
+ENSG00000130175,PRKCSH,Miscellaneous
+ENSG00000101843,PSMD10,Housekeeping Gene
+ENSG00000105894,PTN,Glycosaminoglycan Related
+ENSG00000100994,PYGB,Glycosyltransferase
+ENSG00000100504,PYGL,Glycosyltransferase
+ENSG00000068976,PYGM,Glycosyltransferase
+ENSG00000145337,PYURF,GPI anchor biosynthesis Related
+ENSG00000204628,RACK1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000134193,REG4,Lectin/C-type/Free CTLDs
+ENSG00000102032,RENBP,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000169733,RFNG,Glycosyltransferase
+ENSG00000163933,RFT1,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000164068,RNF123,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000142541,RPL13A,Housekeeping Gene
+ENSG00000174444,RPL4,Housekeeping Gene
+ENSG00000163682,RPL9,Housekeeping Gene
+ENSG00000163902,RPN1,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000118705,RPN2,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000022277,RTF2,Glycosyltransferase
+ENSG00000115884,SDC1,Glycosaminoglycan Related
+ENSG00000169439,SDC2,Glycosaminoglycan Related
+ENSG00000162512,SDC3,Glycosaminoglycan Related
+ENSG00000124145,SDC4,Glycosaminoglycan Related
+ENSG00000137575,SDCBP,Lectin/Misc. Glycan-binding/GAG-binding
+ENSG00000125775,SDCBP2,Lectin/Misc. Glycan-binding/GAG-binding
+ENSG00000073578,SDHA,Housekeeping Gene
+ENSG00000007908,SELE,Lectin/C-type/Selectin
+ENSG00000188404,SELL,Lectin/C-type/Selectin
+ENSG00000174175,SELP,Lectin/C-type/Selectin
+ENSG00000110876,SELPLG,Glycosaminoglycan Related
+ENSG00000117601,SERPINC1,Glycosaminoglycan Related
+ENSG00000122852,SFTPA1,Lectin/C-type/Collectin
+ENSG00000168878,SFTPB,Lectin/C-type/Collectin
+ENSG00000168484,SFTPC,Lectin/C-type/Collectin
+ENSG00000133661,SFTPD,Lectin/C-type/Collectin
+ENSG00000198964,SGMS1,Glycolipid Related
+ENSG00000166224,SGPL1,Glycolipid Related
+ENSG00000181523,SGSH,Sulfate Related/Sulfohydrolase
+ENSG00000164690,SHH,Glycosaminoglycan Related
+ENSG00000110013,SIAE,Miscellaneous
+ENSG00000088827,SIGLEC1,Lecitn/I-type/Siglec
+ENSG00000119899,SLC17A5,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000155850,SLC26A2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000117394,SLC2A1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000197496,SLC2A10,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000146411,SLC2A12,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000163581,SLC2A2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000059804,SLC2A3,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000181856,SLC2A4,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000142583,SLC2A5,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000136856,SLC2A8,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000164414,SLC35A1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000102100,SLC35A2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000117620,SLC35A3,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000121073,SLC35B1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000157593,SLC35B2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000124786,SLC35B3,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000205060,SLC35B4,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000181830,SLC35C1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000080189,SLC35C2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000116704,SLC35D1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000130958,SLC35D2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000182747,SLC35D3,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000281500,SLC37A4,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000137700,SLC37A4,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000138079,SLC3A1,Glycosylhydrolase
+ENSG00000168003,SLC3A2,Glycosylhydrolase
+ENSG00000100170,SLC5A1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSG00000108055,SMC3,Glycosaminoglycan Related
+ENSG00000166311,SMPD1,Glycolipid Related
+ENSG00000103056,SMPD3,Glycolipid Related
+ENSG00000106304,SPAM1,Glycosylhydrolase
+ENSG00000176170,SPHK1,Glycolipid Related
+ENSG00000063176,SPHK2,Glycolipid Related
+ENSG00000090054,SPTLC1,Glycolipid Related
+ENSG00000100596,SPTLC2,Glycolipid Related
+ENSG00000122862,SRGN,Glycosaminoglycan Related
+ENSG00000008513,ST3GAL1,Glycosyltransferase
+ENSG00000157350,ST3GAL2,Glycosyltransferase
+ENSG00000126091,ST3GAL3,Glycosyltransferase
+ENSG00000110080,ST3GAL4,Glycosyltransferase
+ENSG00000115525,ST3GAL5,Glycosyltransferase
+ENSG00000064225,ST3GAL6,Glycosyltransferase
+ENSG00000073849,ST6GAL1,Glycosyltransferase
+ENSG00000144057,ST6GAL2,Glycosyltransferase
+ENSG00000070526,ST6GALNAC1,Glycosyltransferase
+ENSG00000070731,ST6GALNAC2,Glycosyltransferase
+ENSG00000184005,ST6GALNAC3,Glycosyltransferase
+ENSG00000136840,ST6GALNAC4,Glycosyltransferase
+ENSG00000117069,ST6GALNAC5,Glycosyltransferase
+ENSG00000160408,ST6GALNAC6,Glycosyltransferase
+ENSG00000111728,ST8SIA1,Glycosyltransferase
+ENSG00000140557,ST8SIA2,Glycosyltransferase
+ENSG00000177511,ST8SIA3,Glycosyltransferase
+ENSG00000113532,ST8SIA4,Glycosyltransferase
+ENSG00000101638,ST8SIA5,Glycosyltransferase
+ENSG00000148488,ST8SIA6,Glycosyltransferase
+ENSG00000118804,STBD1,Carbohydrate Binding Module
+ENSG00000134910,STT3A,Glycosyltransferase
+ENSG00000163527,STT3B,Glycosyltransferase
+ENSG00000137573,SULF1,Sulfate Related/Sulfatase
+ENSG00000196562,SULF2,Sulfate Related/Sulfatase
+ENSG00000112592,TBP,Housekeeping Gene
+ENSG00000088451,TGDS,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSG00000178726,THBD,Lectin/C-type/Endosialin
+ENSG00000144115,THNSL2,Glycolipid Related
+ENSG00000169902,TPST1,Sulfate Related/Sulfotransferase
+ENSG00000128294,TPST2,Sulfate Related/Sulfotransferase
+ENSG00000065308,TRAM2,Glycolipid Related
+ENSG00000118094,TREH,Glycosylhydrolase
+ENSG00000104723,TUSC3,Lipid-Linked Oligosaccharide Pathway Related
+ENSG00000117143,UAP1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000148154,UGCG,Glycosyltransferase
+ENSG00000109814,UGDH,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000136731,UGGT1,Glycosyltransferase
+ENSG00000169764,UGP2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000241635,UGT1A1,Glycosyltransferase
+ENSG00000242515,UGT1A10,Glycosyltransferase
+ENSG00000240224,UGT1A5,Glycosyltransferase
+ENSG00000241119,UGT1A9,Glycosyltransferase
+ENSG00000173610,UGT2A1,Glycosyltransferase
+ENSG00000271271,UGT2A2,Glycosyltransferase
+ENSG00000278216,UGT2A3,Glycosyltransferase
+ENSG00000135220,UGT2A3,Glycosyltransferase
+ENSG00000145626,UGT3A1,Glycosyltransferase
+ENSG00000168671,UGT3A2,Glycosyltransferase
+ENSG00000111962,UST,Sulfate Related/Sulfotransferase
+ENSG00000115652,UXS1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSG00000162692,VCAM1,Lectin/I-type/Non-Siglec
+ENSG00000173950,XXYLT1,Glycosyltransferase
+ENSG00000285395,XYLT1,Glycosyltransferase
+ENSG00000103489,XYLT1,Glycosyltransferase
+ENSG00000015532,XYLT2,Glycosyltransferase
+ENSG00000166913,YWHAB,Housekeeping Gene

@@ -1,0 +1,262 @@
+kinsufi Guido
+
+ssh christian@142.4.214.141 
+pass: mequierorecibir
+
+/******
+Para ver el estado de memoria y procesos
+ /proc/meminfo  o top
+
+para ver los cpus  
+lscpu
+
+Para reiniciar el server
+sudo reboot
+
+/****
+/*****
+bajar archivos wget
+curl tambien para bajar archivos y permite armar un request 
+/***
+
+PIP
+sudo apt install python-pip
+pip install --upgrade pip
+pip install awscli --upgrade --user
+exit y volver a foguearse
+
+AWS CLI
+aws configure
+For AWS Access Key ID, enter: AKIAIRF23UGSWFQU6HCQ
+For AWS Secret Access Key, enter: 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
+For Default region name enter us-east-1
+Leave Default output format blank (None)
+
+To see the contents of the project bucket:
+
+aws s3 ls s3://genohub9264993 --recursive
+
+To download everything from the project bucket to your local directory:
+
+aws s3 sync s3://genohub9264993 .
+
+To download only a specific file to your local directory:
+
+aws s3 cp s3://genohub9264993/[filename] . (replace [filename] with the actual file name)
+
+To upload data to the project bucket:
+
+Assuming all of the data related to this project is stored in a local directory you can use the 'sync' command from inside the directory to upload everything to the project bucket. It's smart enough to upload only new or updated files:
+
+aws s3 sync . s3://genohub9264993
+
+To upload a specific file from your local directory to the project bucket:
+
+aws s3 cp [filename] s3://genohub9264993 (replace [filename] with the actual file name)
+
+*********************
+Anaconda   (https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)/// la próxima vez instalar miniconda porque anaconda tiene muchos paquetes que no voy a usar nunca
+
+mkdir tmp
+cd tmp
+curl -O https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+bash Anaconda3-5.2.0-Linux-x86_64.sh
+YES
+YES
+NO
+source ~/.bashrc
+conda list
+
+Instalamos los channels (repos)
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
+
+
+para listar channels
+conda config --get channels
+
+para agregar nuevos
+conda config --append channels CHANNEL_NAME
+
+
+Installino de enviroments para ejecutar en python 2.7 o 3.x según el package, hay packages que solo funcionan con una version de python y para eso hay que crear un environment
+
+listar enviroments
+conda info --envs
+
+crear un environment
+conda create --name EnviromentName python=PYTHONVERSION
+
+conda create --name EnviromentName python=PYTHONVERSION
+
+
+activar un environnent
+source activate EnviromentName
+
+Desactivar environment
+source deactivate
+
+conda create --name AligmentTools python=2.7
+source activate AlignmentTools
+
+
+Fastqc
+conda install -c bioconda fastqc 
+conda install -c bioconda/label/broken fastqc
+
+Trimmomatic
+conda install -c bioconda trimmomatic
+
+Samtools
+conda install -c bioconda samtools
+
+Salifish
+conda install -c bioconda sailfish 
+
+Salmon
+conda install -c bioconda salmon
+
+Rsem *
+conda install -c bioconda rsem
+
+SRA tools
+conda install -c bioconda sra-tools
+
+Kallisto
+conda install -c bioconda kallisto
+
+
+Htseq
+conda install -c bioconda htseq   o pip install HTSeq
+
+
+Star
+conda install -c bioconda star
+
+DEXSeq
+conda install -c bioconda bioconductor-dexseq 
+conda install -c bioconda/label/gcc7 bioconductor-dexseq 
+conda install -c bioconda/label/broken bioconductor-dexseq 
+conda install -c bioconda/label/cf201901 bioconductor-dexseq 
+
+Pysam  (para Dexseq cuando  uso bam)
+conda install -c bioconda pysam 
+conda install -c bioconda/label/cf201901 pysam 
+
+Rseqc es tipo fastqc para ver el strand  pero utiliza BED en lugar de gtf
+conda install -c bioconda rseqc 
+conda install -c bioconda/label/cf201901 rseqc
+
+
+beodos -> para convertir gtf en bed,
+conda install -c bioconda bedops 
+conda install -c bioconda/label/cf201901 bedops 
+
+
+source deactivate
+
+
+
+
+/**********
+Bajar genoma de ensemble el primary assembly (no tiene las variantes)
+bajar gtf (annotation)
+descompasar los dos con gunzip
+/**********
+
+alineamiento con STAR
+
+Buildeamos el genoma (12 minutos con 4 cpu y 16gb de ram)
+
+
+mkdir starGenomeIndex
+
+STAR --runMode genomeGenerate --runThreadN 4   --limitGenomeGenerateRAM 15000000000 --genomeSAindexNbases 10 --genomeSAsparseD 4 --limitSjdbInsertNsj 300000 --genomeDir ./starGenomeIndex --genomeFastaFiles Mus_musculus.GRCm38.dna.primary_assembly.fa --sjdbGTFfile Mus_musculus.GRCm38.94.gtf --sjdbOverhang 100
+
+
+Si tengo 32gb de ram  no necesito --limitGenomeGenerateRAM 15000000000 --genomeSAindexNbases 10 --genomeSAsparseD 4 --limitSjdbInsertNsj 300000 
+
+
+Alinear una muestra
+
+ver pipeline rnaseq_pipeline.sh
+
+******
+Kallisto 
+bajamos el transcriptoma(CDNA) y GTF y generamos un indice
+kallisto index -i transcripts.idx Mus_musculus.GRCm38.cdna.all.fa.gz
+
+
+*******************
+instalar el ftp?
+
+*********
+Instalar R
+
+sudo apt update
+sudo apt install r-base
+
+o
+
+wget https://cloud.r-project.org/src/base/R-3/R-3.5.1.tar.gz
+tar R-3.5.1.tar.gz
+cd R-3.5.1
+./configure
+*************
+
+Permisos para ejecutar .sh
+chmod +x caca.sh
+
+******
+//para bajar SRA todos de una 
+sudo apt install ncbi-entrez-direct
+
+2 opciones --> entro al proyecto SRA project abajo ej SRP041888 y luego selecciono los archivos y voy arriba a send to file accession list y bajo el archivo -- El archivo tiene la lista de SRR para bajar
+Acá lo que conviene hacer es ver la api
+por cada archivo prefetch SRR1283818
+
+ de aca convertirlo a fastq y borrar los SRA
+
+Otra opción wget 'http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?save=efetch&rettype=runinfo&db=sra&term=PRJNA223640' -O - | cut -d',' -f12 |  xargs -n 1 wget
+
+
+
+FALTA VER EL STRAND  
+para convertir el gtf a bed
+
+hay que probar gtf2bed
+convert2bed -i gtf Mus_musculus.GRCm38.94.gtf  Mus_musculus.GRCm38.94.bed
+
+luego hay que correr
+
+***********************************
+
+Rsem
+Aligned.out.bam
+--quantMode TranscriptomeSAM option STAR will outputs alignments translated into tran-script coordinates in the Aligned.toTranscriptome.out.bam le (in addition to alignments in ge-nomic coordinates in Aligned.*.sam/bam les). These transcriptomic alignments can be used withvarious transcript quantication software that require reads to be mapped to transcriptome, such asRSEM or eXpress. For example, RSEM command line would look as follows:rsem-calculate-expression ... --bam Aligned.toTranscriptome.out.bam/path/to/RSEM/reference RSEM
+# quantification with RSEM   http://deweylab.biostat.wisc.edu/rsem/README.html    http://deweylab.biostat.wisc.edu/rsem/rsem-prepare-reference.html
+#echo "RSEM"
+#sh ${script_dir}/07rsem.sh ${base_dir}/03mapping ${base_dir}/06rsem ${base_dir}/strand.txt ${rsem} ${rsem_ref} ${thread}
+
+
+
+*********************************************************************
+Cuando me conecto por ssh y cierro o se corta internt, el script que estoy corriendo esta como child de ssh y lo mata, entonces para que esto no suceda
+correr el script en background cerrando la consola|| poder correr el script local en el server   ejecutar el script luego opción 1 ctrl+z ejecutar bg así deja el script en background y puedo cerrar la consola . Opcion 2 nohup script , opción 3 usar tmux  o screen
+Correr un script local a un server
+opción 1. loguearse en la consola, ejecutar screen -->correr script --> ctrl+a y luego d--> aparece detach y listo --> para volver a ver el output del script screen -r (acá lo atacho y después lo tengo que desatachar)  --> si tengo varios procesos, screen -ls para listarlos 
+opción 2. nohup  myScript  & -->y listo --> si quieres ver que esta corriendo  jobs -l
+opción 3. si el script YA esta corriendo  ctrl+z y luego ejecutar bd que manda el script al bacgkound-->  jobs -l --> luego corro disown -h %1   (%1 es el id del job) aca no hay manera de volver a ver el output
+
+*********************************************************************
+
+./SE_RNASeq_pipeline.sh sequences/gal1ko FALSE TruSeq3  genomes/Musmusculus/Mus_musculus.GRCm38.94.gtf genomes/Musmusculus/starGenomeIndex 4 genomes/Musmusculus/kallistoIndex/transcripts.idx TRUE
+
+
+./PE_RNASeq_pipeline.sh sequences/GSE57533 TruSeq3  genomes/Musmusculus/Mus_musculus.GRCm38.94.gtf genomes/Musmusculus/starGenomeIndex 4 genomes/Musmusculus/kallistoIndex/transcripts.idx TRUE
+
+
+
+
+

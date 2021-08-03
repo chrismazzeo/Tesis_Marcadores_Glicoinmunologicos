@@ -1,0 +1,29 @@
+SAMPLE,FILES,GROUP
+Proximal Colon Control 1,GSM1576453_S0649F0002.CEL.gz,Proximal_Colon_Control
+Proximal Colon Control 2,GSM1576454_S0649F0006.CEL.gz,Proximal_Colon_Control
+Proximal Colon Control 3,GSM1576455_S0649F0012.CEL.gz,Proximal_Colon_Control
+Proximal Colon Control 4,GSM1576456_S0790F0007.CEL.gz,Proximal_Colon_Control
+Proximal Colon Control 5,GSM1576457_S0790F0010.CEL.gz,Proximal_Colon_Control
+Proximal Colon Control 6,GSM1576458_S0790F0011.CEL.gz,Proximal_Colon_Control
+Distal Colon Control 1,GSM1576459_S0649F0011.CEL.gz,Distal_Colon_Control
+Distal Colon Control 2,GSM1576460_S0649F0016.CEL.gz,Distal_Colon_Control
+Distal Colon Control 3,GSM1576461_S0649F0018.CEL.gz,Distal_Colon_Control
+Distal Colon Control 4,GSM1576462_S0790F0002.CEL.gz,Distal_Colon_Control
+Distal Colon Control 5,GSM1576463_S0790F0003.CEL.gz,Distal_Colon_Control
+Distal Colon Control 6,GSM1576464_S0790F0009.CEL.gz,Distal_Colon_Control
+Proximal Colon AOM/DSS Early Treatment 1,GSM1576465_S0649F0001.CEL.gz,Proximal_Colon_AOM_DSS_Early
+Proximal Colon AOM/DSS Early Treatment 2,GSM1576466_S0649F0013.CEL.gz,Proximal_Colon_AOM_DSS_Early
+Proximal Colon AOM/DSS Early Treatment 3,GSM1576467_S0649F0017.CEL.gz,Proximal_Colon_AOM_DSS_Early
+Distal Colon AOM/DSS Early Treatment 1,GSM1576468_S0649F0004.CEL.gz,Distal_Colon_AOM_DSS_Early
+Distal Colon AOM/DSS Early Treatment 2,GSM1576469_S0649F0014.CEL.gz,Distal_Colon_AOM_DSS_Early
+Distal Colon AOM/DSS Early Treatment 3,GSM1576470_S0649F0015.CEL.gz,Distal_Colon_AOM_DSS_Early
+Proximal Colon AOM/DSS Late Treatment 1,GSM1576471_S0649F0003.CEL.gz,Proximal_Colon_AOM_DSS_Late
+Proximal Colon AOM/DSS Late Treatment 2,GSM1576472_S0790F0004.CEL.gz,Proximal_Colon_AOM_DSS_Late
+Proximal Colon AOM/DSS Late Treatment 3,GSM1576473_S0790F0005.CEL.gz,Proximal_Colon_AOM_DSS_Late
+Proximal Colon AOM/DSS Late Treatment 4,GSM1576474_S0790F0008.CEL.gz,Proximal_Colon_AOM_DSS_Late
+Distal Colon AOM/DSS Late Treatment 1,GSM1576475_S0649F0005a.CEL.gz,Distal_Colon_AOM_DSS_Late
+Distal Colon AOM/DSS Late Treatment 2,GSM1576476_S0649F0007.CEL.gz,Distal_Colon_AOM_DSS_Late
+Distal Colon AOM/DSS Late Treatment 3,GSM1576477_S0649F0010.CEL.gz,Distal_Colon_AOM_DSS_Late
+Distal Colon AOM/DSS Late Treatment 4,GSM1576478_S0790F0001.CEL.gz,Distal_Colon_AOM_DSS_Late
+Distal Colon AOM/DSS Late Treatment 5,GSM1576479_S0790F0006.CEL.gz,Distal_Colon_AOM_DSS_Late
+Distal Colon AOM/DSS Late Treatment 6,GSM1576480_S0790F0012.CEL.gz,Distal_Colon_AOM_DSS_Late

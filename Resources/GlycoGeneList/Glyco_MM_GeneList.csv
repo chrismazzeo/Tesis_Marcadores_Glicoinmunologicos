@@ -1,0 +1,714 @@
+ensembl_gene_id,entrezgene,external_gene_name,Group
+ENSMUSG00000033114,70484,Slc35d2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000039307,238023,Hexdc,Glycosylhydrolase
+ENSMUSG00000032997,74241,Chpf,Glycosyltransferase
+ENSMUSG00000058019,67935,Ces5a,Carbohydrate Esterase
+ENSMUSG00000047878,239559,A4galt,Glycosyltransferase
+ENSMUSG00000035311,432486,Gnptab,Miscellaneous
+ENSMUSG00000038383,228812,Pigu,GPI anchor biosynthesis Related
+ENSMUSG00000054728,218194,Phactr1,Sulfate Related/Sulfotransferase
+ENSMUSG00000031521,11593,Aga,Glycolipid Related
+ENSMUSG00000008874,403395,Clec3a,Lectin/C-type/Tetranectin
+ENSMUSG00000042763,215090,Maneal,Glycosylhydrolase
+ENSMUSG00000028794,215493,A3galt2,Glycosyltransferase
+ENSMUSG00000039628,328779,Hs3st6,Sulfate Related/Sulfotransferase
+ENSMUSG00000001143,214895,Lman2l,Lectin/L-Type
+ENSMUSG00000029268,552899,Ugt2a2,Glycosyltransferase
+ENSMUSG00000047658,545276,Gal3st3,Sulfate Related/Sulfotransferase
+ENSMUSG00000070704,231396,Ugt2b36,Glycosyltransferase
+ENSMUSG00000036646,227619,Man1b1,Glycosylhydrolase
+ENSMUSG00000030156,12515,Cd69,Lectin/C-type/NK Receptor
+ENSMUSG00000025877,212032,Hk3,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000075593,330217,Gal3st4,Sulfate Related/Sulfotransferase
+ENSMUSG00000061584,332427,Lyg2,Glycosylhydrolase
+ENSMUSG00000075470,380959,Alg10b,Glycosyltransferase
+ENSMUSG00000060594,244864,Layn,Lectin/C-type/Type 1 Receptor
+ENSMUSG00000054474,232078,Thnsl2,Glycolipid Related
+ENSMUSG00000036412,545260,Arsi,Sulfate Related/Arylsulfatase
+ENSMUSG00000036401,71103,Glt6d1,Glycosyltransferase
+ENSMUSG00000014245,327942,Pigl,GPI anchor biosynthesis Related
+ENSMUSG00000074569,654821,Gcnt7,Glycosyltransferase
+ENSMUSG00000043019,66967,Edem3,Glycosylhydrolase
+ENSMUSG00000074268,109959,Amy2a5,Glycosylhydrolase
+ENSMUSG00000037953,333424,A4gnt,Glycosyltransferase
+ENSMUSG00000026354,226413,Lct,Glycosylhydrolase
+ENSMUSG00000027790,69983,Sis,Glycosylhydrolase
+ENSMUSG00000032640,269941,Chsy1,Glycosyltransferase
+ENSMUSG00000074004,272411,B3gnt6,Glycosyltransferase
+ENSMUSG00000051950,381694,B3glct,Glycosyltransferase
+ENSMUSG00000044499,319415,Hs3st5,Sulfate Related/Sulfotransferase
+ENSMUSG00000029263,433931,Pigg,GPI anchor biosynthesis Related
+ENSMUSG00000074852,545291,Hpse2,Glycosylhydrolase
+ENSMUSG00000073792,320438,Alg6,Glycosyltransferase
+ENSMUSG00000038702,319901,Dsel,Glycosaminoglycan Related
+ENSMUSG00000033400,77559,Agl,Glycosylhydrolase
+ENSMUSG00000046321,195646,Hs3st2,Sulfate Related/Sulfotransferase
+ENSMUSG00000058152,78923,Chsy3,Glycosyltransferase
+ENSMUSG00000046312,329828,AI464131,Glycosylhydrolase
+ENSMUSG00000031966,70893,Glb1l3,Glycosylhydrolase
+ENSMUSG00000012123,230806,Crybg2,Carbohydrate Binding Module
+ENSMUSG00000040364,56546,Sec1,Glycosyltransferase
+ENSMUSG00000029580,11461,Actb,Housekeeping Gene
+ENSMUSG00000030607,11595,Acan,Lectin/C-type/Proteoglycan
+ENSMUSG00000074264,11722,Amy1,Glycosylhydrolase
+ENSMUSG00000040963,11890,Asgr2,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000004892,12032,Bcan,Lectin/C-type/Proteoglycan
+ENSMUSG00000031375,12111,Bgn,Glycosaminoglycan Related
+ENSMUSG00000003814,12317,Calr,Lectin/Calnexin-like
+ENSMUSG00000020368,12330,Canx,Lectin/Calnexin-like
+ENSMUSG00000028076,12479,Cd1d1,Lectin/Misc. Glycan-binding/MHC
+ENSMUSG00000028459,12517,Cd72,Lectin/C-type/NK Receptor
+ENSMUSG00000021194,12652,Chga,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000064246,12654,Chil1,Glycosylhydrolase
+ENSMUSG00000074340,12659,Ovgp1,Glycosylhydrolase
+ENSMUSG00000038754,12686,Elovl3,Glycolipid Related
+ENSMUSG00000016756,12763,Cmah,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000028626,12840,Col9a2,Glycosaminoglycan Related
+ENSMUSG00000002341,13004,Ncan,Lectin/C-type/Proteoglycan
+ENSMUSG00000024974,13006,Smc3,Glycosaminoglycan Related
+ENSMUSG00000019929,13179,Dcn,Glycosaminoglycan Related
+ENSMUSG00000028757,13200,Ddost,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000038633,13244,Degs1,Glycolipid Related
+ENSMUSG00000032123,13478,Dpagt1,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000034320,13521,Slc26a2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000027248,14827,Pdia3,Lectin/Lecin-Associated Proteins/PDI
+ENSMUSG00000021456,14120,Fbp2,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000021732,14165,Fgf10,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000031073,14170,Fgf15,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000022101,14171,Fgf17,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000057967,14172,Fgf18,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000037225,14173,Fgf2,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000031074,14174,Fgf3,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000027208,14178,Fgf7,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000054252,14184,Fgfr3,Glycosaminoglycan Related/Fibroblast Growth Factor Receptor
+ENSMUSG00000005320,14186,Fgfr4,Glycosaminoglycan Related/Fibroblast Growth Factor Receptor
+ENSMUSG00000008461,14343,Fut1,Glycosyltransferase
+ENSMUSG00000071650,14376,Ganab,Glycosylhydrolase
+ENSMUSG00000078650,14377,G6pc,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000031400,14381,G6pdx,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000032114,14385,Slc37a4,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000025579,14387,Gaa,Glycosylhydrolase
+ENSMUSG00000021003,14420,Galc,Glycosylhydrolase
+ENSMUSG00000006731,14421,B4galnt1,Glycosyltransferase
+ENSMUSG00000013418,14422,B4galnt2,Glycosyltransferase
+ENSMUSG00000057666,100042025,Gapdh,Housekeeping Gene
+ENSMUSG00000028048,14466,Gba,Glycosylhydrolase
+ENSMUSG00000021360,14538,Gcnt2,Glycosyltransferase
+ENSMUSG00000022491,14663,Glycam1,Glycosaminoglycan Related
+ENSMUSG00000029064,14688,Gnb1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000020372,14694,Rack1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000031119,14735,Gpc4,Glycosaminoglycan Related
+ENSMUSG00000036427,14751,Gpi1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000021340,14756,Gpld1,GPI anchor biosynthesis Related
+ENSMUSG00000003665,15116,Has1,Glycosyltransferase
+ENSMUSG00000022367,15117,Has2,Glycosyltransferase
+ENSMUSG00000031910,15118,Has3,Glycosyltransferase
+ENSMUSG00000022261,15529,Sdc2,Glycosaminoglycan Related
+ENSMUSG00000028763,15530,Hspg2,Glycosaminoglycan Related
+ENSMUSG00000054008,15531,Ndst1,Sulfate Related/Sulfotransferase
+ENSMUSG00000010051,15586,Hyal1,Glycosylhydrolase
+ENSMUSG00000032174,15898,Icam5,Lectin/I-type/Non-Siglec
+ENSMUSG00000033540,15932,Idua,Glycosylhydrolase
+ENSMUSG00000032116,16430,Stt3a,Glycosyltransferase
+ENSMUSG00000052837,16477,Junb,Housekeeping Gene
+ENSMUSG00000029162,16548,Khk,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000072718,16628,Klra10,Lectin/C-type/NK Receptor
+ENSMUSG00000030187,16633,Klra2,Lectin/C-type/NK Receptor
+ENSMUSG00000031391,16728,L1cam,Lectin/I-type/Non-Siglec
+ENSMUSG00000029570,16848,Lfng,Glycosyltransferase
+ENSMUSG00000068220,16852,Lgals1,Lectin/S-Type/Galectin
+ENSMUSG00000053522,16858,Lgals7,Lectin/S-Type/Galectin
+ENSMUSG00000036446,17022,Lum,Glycosaminoglycan Related
+ENSMUSG00000003746,17155,Man1a,Glycosylhydrolase
+ENSMUSG00000024085,17158,Man2a1,Glycosylhydrolase
+ENSMUSG00000029119,17160,Man2b2,Glycosylhydrolase
+ENSMUSG00000022887,17174,Masp1,Lectin/Lecin-Associated Proteins/MASP
+ENSMUSG00000010095,17254,Slc3a2,Glycosylhydrolase
+ENSMUSG00000018169,17305,Mfng,Glycosyltransferase
+ENSMUSG00000026712,17533,Mrc1,Lectin/C-type/Macrophage Mannose Receptor
+ENSMUSG00000020695,17534,Mrc2,Lectin/C-type/Macrophage Mannose Receptor
+ENSMUSG00000022453,17939,Naga,Glycosylhydrolase
+ENSMUSG00000024892,18563,Pcx,Housekeeping Gene
+ENSMUSG00000020717,18613,Pecam1,Lectin/I-type/Non-Siglec
+ENSMUSG00000026409,18640,Pfkfb2,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000020277,18641,Pfkl,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000062070,18655,Pgk1,Housekeeping Gene
+ENSMUSG00000024145,18701,Pigf,GPI anchor biosynthesis Related
+ENSMUSG00000034462,18764,Pkd2,Lectin/C-type/Polycystin
+ENSMUSG00000054580,18779,Pla2r1,Lectin/C-type/Macrophage Mannose Receptor
+ENSMUSG00000017760,19025,Ctsa,Miscellaneous
+ENSMUSG00000071866,268373,Ppia,Housekeeping Gene
+ENSMUSG00000027073,19074,Prg2,Lectin/C-type/Acidic Neck CTLD
+ENSMUSG00000003402,19089,Prkcsh,Miscellaneous
+ENSMUSG00000029838,19242,Ptn,Glycosaminoglycan Related
+ENSMUSG00000059654,19692,Reg1,Lectin/C-type/Free CTLDs
+ENSMUSG00000023140,19693,Reg2,Lectin/C-type/Free CTLDs
+ENSMUSG00000025158,19719,Rfng,Glycosyltransferase
+ENSMUSG00000004473,20256,Clec11a,Lectin/C-type/Tetranectin
+ENSMUSG00000048163,20345,Selplg,Glycosaminoglycan Related
+ENSMUSG00000021795,20390,Sftpd,Lectin/C-type/Collectin
+ENSMUSG00000020097,20397,Sgpl1,Glycolipid Related
+ENSMUSG00000002633,20423,Shh,Glycosaminoglycan Related
+ENSMUSG00000028538,20441,St3gal3,Glycosyltransferase
+ENSMUSG00000013846,20442,St3gal1,Glycosyltransferase
+ENSMUSG00000032038,20443,St3gal4,Glycosyltransferase
+ENSMUSG00000031749,20444,St3gal2,Glycosyltransferase
+ENSMUSG00000057286,20446,St6galnac2,Glycosyltransferase
+ENSMUSG00000025789,20450,St8sia2,Glycosyltransferase
+ENSMUSG00000056812,20451,St8sia3,Glycosyltransferase
+ENSMUSG00000040710,20452,St8sia4,Glycosyltransferase
+ENSMUSG00000018566,20528,Slc2a4,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000024131,20532,Slc3a1,Glycosylhydrolase
+ENSMUSG00000029682,20690,Spam1,Glycosylhydrolase
+ENSMUSG00000021468,268656,Sptlc1,Glycolipid Related
+ENSMUSG00000074743,21824,Thbd,Lectin/C-type/Endosialin
+ENSMUSG00000029344,22022,Tpst2,Sulfate Related/Sulfotransferase
+ENSMUSG00000074129,22121,Rpl13a,Housekeeping Gene
+ENSMUSG00000029201,22235,Ugdh,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000054630,22238,Ugt2b5,Glycosyltransferase
+ENSMUSG00000026842,11350,Abl1,Housekeeping Gene
+ENSMUSG00000023328,11423,Ache,Carbohydrate Esterase
+ENSMUSG00000017390,11676,Aldoc,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000027712,11747,Anxa5,Lectin/Misc. Glycan-binding/Annexin
+ENSMUSG00000021814,11750,Anxa7,Lectin/Misc. Glycan-binding/Annexin
+ENSMUSG00000042082,11881,Arsb,Sulfate Related/Arylsulfatase
+ENSMUSG00000022620,11883,Arsa,Sulfate Related/Arylsulfatase
+ENSMUSG00000020884,11889,Asgr1,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000027312,11990,Atrn,Lectin/C-type/Attractin
+ENSMUSG00000060802,12010,B2m,Housekeeping Gene
+ENSMUSG00000027792,12038,Bche,Carbohydrate Esterase
+ENSMUSG00000045594,12091,Glb1,Glycosylhydrolase
+ENSMUSG00000030577,12483,Cd22,Lecitn/I-type/Siglec
+ENSMUSG00000005087,12505,Cd44,Glycosaminoglycan Related
+ENSMUSG00000015396,12522,Cd83,Lectin/I-type/Non-Siglec
+ENSMUSG00000026818,12613,Cel,Carbohydrate Esterase
+ENSMUSG00000040809,12655,Chil3,Glycosylhydrolase
+ENSMUSG00000030282,12764,Cmas,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000022174,13135,Dad1,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000039952,13138,Dag1,Glycosaminoglycan Related
+ENSMUSG00000003166,13356,Dgcr2,Lectin/C-type/IDD
+ENSMUSG00000078919,13480,Dpm1,Glycosyltransferase
+ENSMUSG00000026810,13481,Dpm2,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000035000,13482,Dpp4,Carbohydrate Esterase
+ENSMUSG00000055493,13853,Epm2a,Carbohydrate Binding Module
+ENSMUSG00000061731,14042,Ext1,Glycosyltransferase
+ENSMUSG00000027198,14043,Ext2,Glycosyltransferase
+ENSMUSG00000036585,14164,Fgf1,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000042826,14166,Fgf11,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000031137,14168,Fgf13,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000025551,14169,Fgf14,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000050917,14175,Fgf4,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000029337,14176,Fgf5,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000025219,14179,Fgf8,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000031565,14182,Fgfr1,Glycosaminoglycan Related/Fibroblast Growth Factor Receptor
+ENSMUSG00000030849,14183,Fgfr2,Glycosaminoglycan Related/Fibroblast Growth Factor Receptor
+ENSMUSG00000049307,14345,Fut4,Glycosyltransferase
+ENSMUSG00000055373,14348,Fut9,Glycosyltransferase
+ENSMUSG00000035778,14594,Ggta1,Glycosyltransferase
+ENSMUSG00000041798,103988,Gck,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000000594,14667,Gm2a,Glycolipid Related
+ENSMUSG00000022561,14731,Gpaa1,GPI anchor biosynthesis Related
+ENSMUSG00000025534,110006,Gusb,Glycosylhydrolase
+ENSMUSG00000025232,15211,Hexa,Glycosylhydrolase
+ENSMUSG00000021665,15212,Hexb,Glycosylhydrolase
+ENSMUSG00000037012,15275,Hk1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000051022,15476,Hs3st1,Sulfate Related/Sulfotransferase
+ENSMUSG00000010047,15587,Hyal2,Glycosylhydrolase
+ENSMUSG00000037405,15894,Icam1,Lectin/I-type/Non-Siglec
+ENSMUSG00000001029,15896,Icam2,Lectin/I-type/Non-Siglec
+ENSMUSG00000035847,15931,Ids,Sulfate Related/Sulfatase
+ENSMUSG00000024610,16149,Cd74,Glycosaminoglycan Related
+ENSMUSG00000067591,16634,Klra3,Lectin/C-type/NK Receptor
+ENSMUSG00000079852,16635,Klra4,Lectin/C-type/NK Receptor
+ENSMUSG00000089727,16639,Klra8,Lectin/C-type/NK Receptor
+ENSMUSG00000030167,16641,Klrc1,Lectin/C-type/NK Receptor
+ENSMUSG00000052736,16642,Klrc2,Lectin/C-type/NK Receptor
+ENSMUSG00000030165,16643,Klrd1,Lectin/C-type/NK Receptor
+ENSMUSG00000031447,16783,Lamp1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000016534,16784,Lamp2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000004383,16795,Large1,Glycosyltransferase
+ENSMUSG00000050335,16854,Lgals3,Lectin/S-Type/Galectin
+ENSMUSG00000053964,16855,Lgals4,Lectin/S-Type/Galectin
+ENSMUSG00000001123,16859,Lgals9,Lectin/S-Type/Galectin
+ENSMUSG00000027435,17064,Cd93,Lectin/C-type/Endosialin
+ENSMUSG00000007458,17113,M6pr,Lectin/P-Type
+ENSMUSG00000036634,17136,Mag,Lecitn/I-type/Siglec
+ENSMUSG00000008763,17156,Man1a2,Glycosylhydrolase
+ENSMUSG00000005142,17159,Man2b1,Glycosylhydrolase
+ENSMUSG00000028979,17175,Masp2,Lectin/Lecin-Associated Proteins/MASP
+ENSMUSG00000037780,17194,Mbl1,Lectin/C-type/Collectin
+ENSMUSG00000024863,17195,Mbl2,Lectin/C-type/Collectin
+ENSMUSG00000027239,17242,Mdk,Lectin/Misc. Glycan-binding/GAG-binding
+ENSMUSG00000020346,17308,Mgat1,Glycosyltransferase
+ENSMUSG00000042428,17309,Mgat3,Glycosyltransferase
+ENSMUSG00000000318,17312,Clec10a,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000039308,17423,Ndst2,Sulfate Related/Sulfotransferase
+ENSMUSG00000030144,17474,Clec4d,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000039542,17967,Ncam1,Lectin/I-type/Non-Siglec
+ENSMUSG00000007038,18010,Neu1,Glycosylhydrolase
+ENSMUSG00000071356,18489,Reg3b,Lectin/C-type/Free CTLDs
+ENSMUSG00000031381,18700,Piga,Glycosyltransferase
+ENSMUSG00000046223,18793,Plaur,Glycosaminoglycan Related
+ENSMUSG00000020077,19073,Srgn,Glycosaminoglycan Related
+ENSMUSG00000032648,19309,Pygm,Glycosyltransferase
+ENSMUSG00000047215,20005,Rpl9,Housekeeping Gene
+ENSMUSG00000026582,20339,Sele,Lectin/C-type/Selectin
+ENSMUSG00000026581,20343,Sell,Lectin/C-type/Selectin
+ENSMUSG00000026580,20344,Selp,Lectin/C-type/Selectin
+ENSMUSG00000022097,20389,Sftpc,Lectin/C-type/Collectin
+ENSMUSG00000009588,20445,St6galnac1,Glycosyltransferase
+ENSMUSG00000052544,20447,St6galnac3,Glycosyltransferase
+ENSMUSG00000079442,20448,St6galnac4,Glycosyltransferase
+ENSMUSG00000030283,20449,St8sia1,Glycosyltransferase
+ENSMUSG00000056091,20454,St3gal5,Glycosyltransferase
+ENSMUSG00000028645,20525,Slc2a1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000003153,20527,Slc2a3,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000037049,20597,Smpd1,Glycolipid Related
+ENSMUSG00000027322,20612,Siglec1,Lecitn/I-type/Siglec
+ENSMUSG00000061878,20698,Sphk1,Glycolipid Related
+ENSMUSG00000021036,20773,Sptlc2,Glycolipid Related
+ENSMUSG00000020592,20969,Sdc1,Glycosaminoglycan Related
+ENSMUSG00000025743,20970,Sdc3,Glycosaminoglycan Related
+ENSMUSG00000017009,20971,Sdc4,Glycosaminoglycan Related
+ENSMUSG00000025784,21922,Clec3b,Lectin/C-type/Tetranectin
+ENSMUSG00000028381,22234,Ugcg,Glycosyltransferase
+ENSMUSG00000032854,22239,Ugt8a,Glycosyltransferase
+ENSMUSG00000027962,22329,Vcam1,Lectin/I-type/Non-Siglec
+ENSMUSG00000001942,22619,Siae,Miscellaneous
+ENSMUSG00000058571,23888,Gpc6,Glycosaminoglycan Related
+ENSMUSG00000025728,14755,Pigq,GPI anchor biosynthesis Related
+ENSMUSG00000040151,23908,Hs2st1,Sulfate Related/Sulfotransferase
+ENSMUSG00000028032,23971,Papss1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000024899,23972,Papss2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000028293,24060,Slc35a1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000018761,24070,Mpdu1,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000052102,26384,Gnpda1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000035930,26887,Chst4,Sulfate Related/Sulfotransferase
+ENSMUSG00000030148,26888,Clec4a2,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000039037,26938,St6galnac5,Glycosyltransferase
+ENSMUSG00000021322,27052,Aoah,Glycolipid Related
+ENSMUSG00000031266,11605,Gla,Glycosylhydrolase
+ENSMUSG00000029994,11746,Anxa4,Lectin/Misc. Glycan-binding/Annexin
+ENSMUSG00000005540,14128,Fcer2a,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000021974,14180,Fgf9,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000036587,14347,Fut7,Glycosyltransferase
+ENSMUSG00000029992,14583,Gfpt1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000020363,14584,Gfpt2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000032126,15288,Hmbs,Housekeeping Gene
+ENSMUSG00000020330,15366,Hmmr,Lectin/Misc. Glycan-binding/GAG-binding
+ENSMUSG00000025630,15452,Hprt,Housekeeping Gene
+ENSMUSG00000001507,16400,Itga3,Glycosyltransferase
+ENSMUSG00000069515,17110,Lyz1,Glycosylhydrolase
+ENSMUSG00000020310,17123,Madcam1,Glycosaminoglycan Related
+ENSMUSG00000032855,18763,Pkd1,Lectin/C-type/Polycystin
+ENSMUSG00000014767,21374,Tbp,Housekeeping Gene
+ENSMUSG00000090171,22236,Ugt1a2,Glycosyltransferase
+ENSMUSG00000019528,27357,Gyg,Glycosyltransferase
+ENSMUSG00000056536,27392,Pign,GPI anchor biosynthesis Related
+ENSMUSG00000001751,27419,Naglu,Glycosylhydrolase
+ENSMUSG00000023143,27426,Nagpa,Miscellaneous
+ENSMUSG00000000420,14423,Galnt1,Glycosyltransferase
+ENSMUSG00000000628,15277,Hk2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000058488,16591,Kl,Glycosylhydrolase
+ENSMUSG00000026980,17076,Ly75,Lectin/C-type/Macrophage Mannose Receptor
+ENSMUSG00000034118,22021,Tpst1,Sulfate Related/Sulfotransferase
+ENSMUSG00000022474,29858,Pmm1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000032482,29873,Cspg5,Glycosaminoglycan Related
+ENSMUSG00000068341,30053,Reg3d,Lectin/C-type/Free CTLDs
+ENSMUSG00000026994,14425,Galnt3,Glycosyltransferase
+ENSMUSG00000090035,14426,Galnt4,Glycosyltransferase
+ENSMUSG00000079434,23956,Neu2,Glycosylhydrolase
+ENSMUSG00000045216,50785,Hs6st1,Sulfate Related/Sulfotransferase
+ENSMUSG00000062184,50786,Hs6st2,Sulfate Related/Sulfotransferase
+ENSMUSG00000053465,50787,Hs6st3,Sulfate Related/Sulfotransferase
+ENSMUSG00000028479,50798,Gne,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000036073,14430,Galt,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000034220,14733,Gpc1,Glycosaminoglycan Related
+ENSMUSG00000055653,14734,Gpc3,Glycosaminoglycan Related
+ENSMUSG00000035239,50877,Neu3,Glycosylhydrolase
+ENSMUSG00000015027,50917,Galns,Sulfate Related/Sulfatase
+ENSMUSG00000014542,51811,Clec4f,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000020873,110172,Slc35b1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000025393,11947,Atp5b,Housekeeping Gene
+ENSMUSG00000057337,53374,Chst3,Sulfate Related/Sulfotransferase
+ENSMUSG00000028249,53378,Sdcbp,Lectin/Misc. Glycan-binding/GAG-binding
+ENSMUSG00000067279,53412,Ppp1r3c,Carbohydrate Binding Module
+ENSMUSG00000022711,54128,Pmm2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000031429,53380,Psmd10,Housekeeping Gene
+ENSMUSG00000051650,53625,B3gnt2,Glycosyltransferase
+ENSMUSG00000021065,53618,Fut8,Glycosyltransferase
+ENSMUSG00000021996,13885,Esd,Carbohydrate Esterase
+ENSMUSG00000020766,14635,Galk1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000027072,53856,Prg3,Lectin/C-type/Acidic Neck CTLD
+ENSMUSG00000049721,53897,Gal3st1,Sulfate Related/Sulfotransferase
+ENSMUSG00000030114,50928,Klrg1,Lectin/C-type/NK Receptor
+ENSMUSG00000026811,50935,St6galnac6,Glycosyltransferase
+ENSMUSG00000069516,17105,Lyz2,Glycosylhydrolase
+ENSMUSG00000028541,53418,B4galt2,Glycosyltransferase
+ENSMUSG00000018326,54401,Ywhab,Housekeeping Gene
+ENSMUSG00000033350,54371,Chst2,Sulfate Related/Sulfotransferase
+ENSMUSG00000022747,54613,St3gal6,Glycosyltransferase
+ENSMUSG00000021978,54616,Extl3,Glycosyltransferase
+ENSMUSG00000070407,54710,Hs3st3b1,Sulfate Related/Sulfotransferase
+ENSMUSG00000005043,27029,Sgsh,Sulfate Related/Sulfohydrolase
+ENSMUSG00000024887,54447,Asah2,Glycolipid Related
+ENSMUSG00000055978,14344,Fut2,Glycosyltransferase
+ENSMUSG00000057554,56048,Lgals8,Lectin/S-Type/Galectin
+ENSMUSG00000079469,55981,Pigb,Glycosyltransferase
+ENSMUSG00000069805,14121,Fbp1,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000067370,54218,B3galt4,Glycosyltransferase
+ENSMUSG00000006390,54325,Elovl1,Glycolipid Related
+ENSMUSG00000021364,54326,Elovl2,Glycolipid Related
+ENSMUSG00000037722,54342,Gnpnat1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000089992,14380,G6pd2,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000026791,56017,Slc2a8,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000024972,56072,Lgals12,Lectin/S-Type/Galectin
+ENSMUSG00000034744,56174,Nagk,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000022940,56176,Pigp,GPI anchor biosynthesis Related
+ENSMUSG00000028838,56219,Extl1,Glycosyltransferase
+ENSMUSG00000027642,20014,Rpn2,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000021196,56421,Pfkp,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000056124,56386,B4galt6,Glycosyltransferase
+ENSMUSG00000028976,56485,Slc2a5,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000022793,56375,B4galt4,Glycosyltransferase
+ENSMUSG00000011034,20537,Slc5a1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000011884,56356,Gltp,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000017929,56336,B4galt5,Glycosyltransferase
+ENSMUSG00000030142,56619,Clec4e,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000031952,56773,Chst5,Sulfate Related/Sulfotransferase
+ENSMUSG00000030159,56760,Clec1b,Lectin/C-type/NK Receptor
+ENSMUSG00000021476,56541,Habp4,Lectin/Misc. Glycan-binding/GAG-binding
+ENSMUSG00000039740,56737,Alg2,Glycosyltransferase
+ENSMUSG00000023349,56620,Clec4n,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000079293,56644,Clec7a,Lectin/C-type/NK Receptor
+ENSMUSG00000030827,56636,Fgf21,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000033849,26878,B3galt2,Glycosyltransferase
+ENSMUSG00000043300,26879,B3galnt1,Glycosyltransferase
+ENSMUSG00000028454,56703,Pigo,GPI anchor biosynthesis Related
+ENSMUSG00000030365,93675,Clec2i,Lectin/C-type/NK Receptor
+ENSMUSG00000034780,26877,B3galt1,Glycosyltransferase
+ENSMUSG00000052423,57370,B4galt3,Glycosyltransferase
+ENSMUSG00000030036,57377,Mogs,Glycosylhydrolase
+ENSMUSG00000004609,12489,Cd33,Lectin/I-type/CD33-Related
+ENSMUSG00000005232,14378,G6pc2,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000041559,14264,Fmod,Glycosaminoglycan Related
+ENSMUSG00000029915,23845,Clec5a,Lectin/C-type/NK Receptor
+ENSMUSG00000027963,58193,Extl2,Glycosyltransferase
+ENSMUSG00000018999,58246,Slc35b4,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000034612,58250,Chst11,Sulfate Related/Sulfotransferase
+ENSMUSG00000057074,12623,Ces1g,Carbohydrate Esterase
+ENSMUSG00000024781,16889,Lipa,Glycolipid Related
+ENSMUSG00000032098,58866,Treh,Glycosylhydrolase
+ENSMUSG00000031906,58994,Smpd3,Glycolipid Related
+ENSMUSG00000021785,59007,Ngly1,Miscellaneous
+ENSMUSG00000033065,18642,Pfkm,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000036599,59031,Chst12,Sulfate Related/Sulfotransferase
+ENSMUSG00000048970,59048,C1galt1c1,Glycosyltransferase
+ENSMUSG00000041936,11603,Agrn,Lectin/Misc. Glycan-binding/Agrin
+ENSMUSG00000037347,60322,Chst7,Sulfate Related/Sulfotransferase
+ENSMUSG00000028413,14595,B4galt1,Glycosyltransferase
+ENSMUSG00000027971,64580,Ndst4,Sulfate Related/Sulfotransferase
+ENSMUSG00000000182,64654,Fgf23,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000031387,19703,Renbp,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000021789,20387,Sftpa1,Lectin/C-type/Collectin
+ENSMUSG00000062778,81600,Chia1,Glycosylhydrolase
+ENSMUSG00000021577,66945,Sdha,Housekeeping Gene
+ENSMUSG00000027761,67758,Aadac,Carbohydrate Esterase
+ENSMUSG00000021669,68018,Col4a3bp,Glycolipid Related
+ENSMUSG00000015702,71790,Anxa9,Lectin/Misc. Glycan-binding/Annexin
+ENSMUSG00000025220,76055,Mgea5,Glycosylhydrolase
+ENSMUSG00000027221,76969,Chst1,Sulfate Related/Sulfotransferase
+ENSMUSG00000039887,66789,Alg14,Glycosyltransferase
+ENSMUSG00000032399,67891,Rpl4,Housekeeping Gene
+ENSMUSG00000032437,68292,Stt3b,Glycosyltransferase
+ENSMUSG00000028673,71665,Fuca1,Glycosylhydrolase
+ENSMUSG00000071649,72727,B3gat3,Glycosyltransferase
+ENSMUSG00000038803,67695,Ost4,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000023791,72084,Pigx,GPI anchor biosynthesis Related
+ENSMUSG00000060703,66205,Cd302,Lectin/C-type/Acidic Neck CTLD
+ENSMUSG00000036632,66248,Alg5,Glycosyltransferase
+ENSMUSG00000027502,66404,Rtf2,Glycosyltransferase
+ENSMUSG00000043162,66459,Pyurf,GPI anchor biosynthesis Related
+ENSMUSG00000043501,107753,Lgals2,Lectin/S-Type/Galectin
+ENSMUSG00000039047,329777,Pigk,GPI anchor biosynthesis Related
+ENSMUSG00000019810,66848,Fuca2,Glycosylhydrolase
+ENSMUSG00000045930,66864,Clec14a,Lectin/C-type/Endosialin
+ENSMUSG00000021484,66890,Lman2,Lectin/L-Type
+ENSMUSG00000032306,110119,Mpi,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000029413,67111,Naaa,Glycolipid Related
+ENSMUSG00000071644,67160,Eef1g,Housekeeping Gene
+ENSMUSG00000008206,67260,Cers4,Glycolipid Related
+ENSMUSG00000026698,67292,Pigc,GPI anchor biosynthesis Related
+ENSMUSG00000024233,67328,Lyzl1,Glycosylhydrolase
+ENSMUSG00000035057,67555,Mgat4d,Glycosyltransferase
+ENSMUSG00000050229,67556,Pigm,Glycosyltransferase
+ENSMUSG00000019888,67569,Mgat4c,Glycosyltransferase
+ENSMUSG00000041718,67574,Alg13,Glycosyltransferase
+ENSMUSG00000027876,67709,Reg4,Lectin/C-type/Free CTLDs
+ENSMUSG00000057363,67883,Uxs1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000028938,67909,Galntl5,Glycosyltransferase
+ENSMUSG00000042737,68563,Dpm3,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000032530,69032,Lyzl4,Glycosylhydrolase
+ENSMUSG00000065987,69165,Cd209b,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000020945,69444,Lyzl6,Glycosylhydrolase
+ENSMUSG00000026085,69541,Lyg1,Glycosylhydrolase
+ENSMUSG00000030147,69810,Clec4b1,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000028164,110173,Manba,Glycosylhydrolase
+ENSMUSG00000021263,70059,Degs2,Glycolipid Related
+ENSMUSG00000029094,70292,Afap1,Housekeeping Gene
+ENSMUSG00000045140,70325,Pigw,GPI anchor biosynthesis Related
+ENSMUSG00000041891,70361,Lman1,Lectin/L-Type
+ENSMUSG00000024064,71685,Galnt14,Glycosyltransferase
+ENSMUSG00000023021,71949,Cers5,Glycolipid Related
+ENSMUSG00000006800,72043,Sulf2,Sulfate Related/Sulfatase
+ENSMUSG00000032226,72077,Gcnt3,Glycosyltransferase
+ENSMUSG00000035780,72094,Ugt2a3,Glycosyltransferase
+ENSMUSG00000074916,72136,Chst14,Sulfate Related/Sulfotransferase
+ENSMUSG00000025791,72157,Pgm1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000031803,72297,B3gnt3,Glycosyltransferase
+ENSMUSG00000056131,109785,Pgm3,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000039357,73068,Fut11,Glycosyltransferase
+ENSMUSG00000032295,73744,Man2c1,Glycosylhydrolase
+ENSMUSG00000037089,73836,Slc35b2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000020604,74008,Arsg,Sulfate Related/Arylsulfatase
+ENSMUSG00000042684,74091,Npl,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000022707,74185,Gbe1,Glycosylhydrolase
+ENSMUSG00000028189,74245,Ctbs,Glycosylhydrolase
+ENSMUSG00000029679,74409,Hyal6,Glycosylhydrolase
+ENSMUSG00000029678,74468,Hyal5,Glycosylhydrolase
+ENSMUSG00000026200,74577,Glb1l,Glycosylhydrolase
+ENSMUSG00000020251,74782,Glt8d2,Glycosyltransferase
+ENSMUSG00000053870,75540,Fpgt,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000026882,75859,4930568D16Rik,Glycosyltransferase
+ENSMUSG00000074491,75863,Clec4g,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000050473,76157,Slc35d3,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000022130,76355,Tgds,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000021916,76485,Glt8d1,Glycosyltransferase
+ENSMUSG00000034416,76645,Pkd1l2,Lectin/C-type/Polycystin
+ENSMUSG00000028700,68273,Pomgnt1,Glycosyltransferase
+ENSMUSG00000018042,109754,Cyb5r3,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000015714,76893,Cers2,Glycolipid Related
+ENSMUSG00000045994,76898,B3gat1,Glycosyltransferase
+ENSMUSG00000029680,77042,Hyal4,Glycosylhydrolase
+ENSMUSG00000020177,77397,9530003J23Rik,Glycosylhydrolase
+ENSMUSG00000030930,77590,Chst15,Sulfate Related/Sulfotransferase
+ENSMUSG00000021120,110417,Pigh,GPI anchor biosynthesis Related
+ENSMUSG00000036586,77998,Grifin,Lectin/S-Type/Galectin
+ENSMUSG00000042042,78752,Csgalnact2,Glycosyltransferase
+ENSMUSG00000021903,78754,Galnt15,Glycosyltransferase
+ENSMUSG00000039530,80286,Tusc3,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000020260,80294,Pofut2,Glycosyltransferase
+ENSMUSG00000031603,80857,Fgf20,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000031230,80903,Fgf16,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000003865,14936,Gys1,Glycosyltransferase
+ENSMUSG00000015787,80908,Abo,Glycosyltransferase
+ENSMUSG00000029195,83379,Klb,Glycosylhydrolase
+ENSMUSG00000030474,83382,Siglece,Lectin/I-type/CD33-Related
+ENSMUSG00000027977,83398,Ndst3,Sulfate Related/Sulfotransferase
+ENSMUSG00000027690,20526,Slc2a2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000005949,83429,Ctns,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000041528,84585,Rnf123,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000030149,27007,Klrk1,Lectin/C-type/NK Receptor
+ENSMUSG00000074892,93961,B3galt5,Glycosyltransferase
+ENSMUSG00000032252,93683,Glce,Glycosaminoglycan Related
+ENSMUSG00000052551,94191,Adarb2,Housekeeping Gene
+ENSMUSG00000042460,94192,C1galt1,Glycosyltransferase
+ENSMUSG00000030157,93694,Clec2d,Lectin/C-type/NK Receptor
+ENSMUSG00000029816,93695,Gpnmb,Lectin/Misc. Glycan-binding/GAG-binding
+ENSMUSG00000030364,94071,Clec2h,Lectin/C-type/NK Receptor
+ENSMUSG00000028334,94181,Nans,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000106677,94215,Ugt2a1,Glycosyltransferase
+ENSMUSG00000056973,104158,Ces1d,Carbohydrate Esterase
+ENSMUSG00000057425,112417,Ugt2b37,Glycosyltransferase
+ENSMUSG00000056481,70445,Cd248,Lectin/C-type/Endosialin
+ENSMUSG00000022686,108105,B3gnt5,Glycosyltransferase
+ENSMUSG00000031156,22232,Slc35a2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000050796,117592,B3galt6,Glycosyltransferase
+ENSMUSG00000046020,140484,Pofut1,Glycosyltransferase
+ENSMUSG00000042717,140491,Ppp1r3a,Carbohydrate Binding Module
+ENSMUSG00000026715,11905,Serpinc1,Glycosaminoglycan Related
+ENSMUSG00000036103,140792,Colec12,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000041220,170439,Elovl6,Glycolipid Related
+ENSMUSG00000027661,170441,Slc2a10,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000040165,170776,Cd209c,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000031495,170779,Cd209d,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000040197,170780,Cd209e,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000021069,110095,Pygl,Glycosyltransferase
+ENSMUSG00000014543,170733,Klra17,Lectin/C-type/NK Receptor
+ENSMUSG00000026773,170768,Pfkfb3,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000031494,170786,Cd209a,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000016494,12490,Cd34,Glycosaminoglycan Related
+ENSMUSG00000033021,69080,Gmppa,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000017721,78928,Pigt,GPI anchor biosynthesis Related
+ENSMUSG00000026670,107652,Uap1,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000061906,100559,Ugt2b38,Glycosyltransferase
+ENSMUSG00000038181,100910,Chpf2,Glycosyltransferase
+ENSMUSG00000030062,103963,Rpn1,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000055730,102022,Ces2a,Carbohydrate Esterase
+ENSMUSG00000032059,102580,Alg9,Glycosyltransferase
+ENSMUSG00000032615,103850,Nt5m,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000021432,108652,Slc35b3,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000046152,171167,Fut10,Glycosyltransferase
+ENSMUSG00000020520,171212,Galnt10,Glycosyltransferase
+ENSMUSG00000032349,68801,Elovl5,Glycolipid Related
+ENSMUSG00000039556,54646,Ppp1r3f,Carbohydrate Binding Module
+ENSMUSG00000087408,14559,Cers1,Glycolipid Related
+ENSMUSG00000030162,108078,Olr1,Lectin/C-type/NK Receptor
+ENSMUSG00000030104,192193,Edem1,Glycosylhydrolase
+ENSMUSG00000032911,121021,Cspg4,Glycosaminoglycan Related
+ENSMUSG00000022860,246048,Chodl,Lectin/C-type/Type 1 Receptor
+ENSMUSG00000034160,108155,Ogt,Glycosyltransferase
+ENSMUSG00000026829,227671,Gbgt1,Glycosyltransferase
+ENSMUSG00000089704,108148,Galnt2,Glycosyltransferase
+ENSMUSG00000001891,216558,Ugp2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000028414,246179,Fktn,Miscellaneous
+ENSMUSG00000031608,108150,Galnt7,Glycosyltransferase
+ENSMUSG00000040451,208449,Sgms1,Glycolipid Related
+ENSMUSG00000049152,223337,Ugt3a2,Glycosyltransferase
+ENSMUSG00000017664,228875,Slc35c2,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000027957,229782,Slc35a3,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000028307,230163,Aldob,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000038072,231050,Galnt11,Glycosyltransferase
+ENSMUSG00000031725,234564,Ces1f,Carbohydrate Esterase
+ENSMUSG00000034783,246278,Cd207,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000054545,94284,Ugt1a6a,Glycosyltransferase
+ENSMUSG00000063779,104183,Chil4,Glycosylhydrolase
+ENSMUSG00000036155,107895,Mgat5,Glycosyltransferase
+ENSMUSG00000040950,216864,Mgl2,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000026080,98388,Chst10,Sulfate Related/Sulfotransferase
+ENSMUSG00000039254,99011,Pomt1,Glycosyltransferase
+ENSMUSG00000034040,212996,Galnt17,Glycosyltransferase
+ENSMUSG00000079445,227327,B3gnt7,Glycosyltransferase
+ENSMUSG00000039427,208211,Alg1,Glycosyltransferase
+ENSMUSG00000062031,212974,Pgghg,Glycosylhydrolase
+ENSMUSG00000035891,223753,Cerk,Glycolipid Related
+ENSMUSG00000035845,223774,Alg12,Glycosyltransferase
+ENSMUSG00000027456,228765,Sdcbp2,Lectin/Misc. Glycan-binding/GAG-binding
+ENSMUSG00000038312,108687,Edem2,Glycosylhydrolase
+ENSMUSG00000030244,232493,Gys2,Glycosyltransferase
+ENSMUSG00000039013,233186,Siglecf,Lectin/I-type/CD33-Related
+ENSMUSG00000061825,234671,Ces2c,Carbohydrate Esterase
+ENSMUSG00000020868,217119,Xylt2,Glycosyltransferase
+ENSMUSG00000049922,228368,Slc35c1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000032401,235435,Lctl,Glycosylhydrolase
+ENSMUSG00000003418,241230,St8sia6,Glycosyltransferase
+ENSMUSG00000036620,103534,Mgat4b,Glycosyltransferase
+ENSMUSG00000022885,20440,St6gal1,Glycosyltransferase
+ENSMUSG00000033809,208624,Alg3,Glycosyltransferase
+ENSMUSG00000043998,217664,Mgat2,Glycosyltransferase
+ENSMUSG00000038372,218138,Gmds,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000021504,218271,B4galt7,Glycosyltransferase
+ENSMUSG00000059479,232984,B3gnt8,Glycosyltransferase
+ENSMUSG00000034807,234407,Colgalt1,Glycosyltransferase
+ENSMUSG00000032590,235606,Apeh,Carbohydrate Esterase
+ENSMUSG00000056370,20388,Sftpb,Lectin/C-type/Collectin
+ENSMUSG00000032262,83603,Elovl4,Glycolipid Related
+ENSMUSG00000035273,15442,Hpse,Glycosylhydrolase
+ENSMUSG00000035836,71773,Ugt2b1,Glycosyltransferase
+ENSMUSG00000030154,232408,Klrb1f,Lectin/C-type/NK Receptor
+ENSMUSG00000025425,225742,St8sia5,Glycosyltransferase
+ENSMUSG00000043832,73149,Clec4a3,Lectin/C-type/Type 2 Receptor
+ENSMUSG00000034126,217734,Pomt2,Glycosyltransferase
+ENSMUSG00000066235,215494,Pomgnt2,Glycosyltransferase
+ENSMUSG00000029260,100727,Ugt2b34,Glycosyltransferase
+ENSMUSG00000033059,110078,Pygb,Glycosyltransferase
+ENSMUSG00000036395,244757,Glb1l2,Glycosylhydrolase
+ENSMUSG00000026156,280645,B3gat2,Glycosyltransferase
+ENSMUSG00000016918,240725,Sulf1,Sulfate Related/Sulfatase
+ENSMUSG00000019866,11630,Crybg1,Carbohydrate Binding Module
+ENSMUSG00000029510,71951,Gpc2,Glycosaminoglycan Related
+ENSMUSG00000037280,207839,Galnt6,Glycosyltransferase
+ENSMUSG00000039497,212898,Dse,Glycosaminoglycan Related
+ENSMUSG00000035521,214505,Gnptg,Lectin/P-Type
+ENSMUSG00000033857,217364,Engase,Glycosylhydrolase
+ENSMUSG00000036890,227835,Gtdc1,Glycosyltransferase
+ENSMUSG00000040434,228366,Large2,Glycosyltransferase
+ENSMUSG00000062646,76051,Ganc,Glycosylhydrolase
+ENSMUSG00000039774,230145,Galnt12,Glycosyltransferase
+ENSMUSG00000036356,234356,Csgalnact1,Glycosyltransferase
+ENSMUSG00000049624,235504,Slc17a5,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000045625,239827,Pigz,Glycosyltransferase
+ENSMUSG00000024172,240119,St6gal2,Glycosyltransferase
+ENSMUSG00000026828,241391,Galnt5,Glycosyltransferase
+ENSMUSG00000027035,241447,Cers6,Glycolipid Related
+ENSMUSG00000040520,242362,Manea,Glycosylhydrolase
+ENSMUSG00000035811,243085,Ugt2b35,Glycosyltransferase
+ENSMUSG00000030468,243958,Siglecg,Lectin/I-type/CD33-Related
+ENSMUSG00000038886,140481,Man2a2,Glycosylhydrolase
+ENSMUSG00000031302,245537,Nlgn3,Carbohydrate Esterase
+ENSMUSG00000036820,245847,Amdhd2,Carbohydrate Esterase
+ENSMUSG00000043857,268510,Mgat5b,Glycosyltransferase
+ENSMUSG00000060988,271786,Galnt13,Glycosyltransferase
+ENSMUSG00000028980,100198,H6pd,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000038591,239447,Colec10,Lectin/C-type/Collectin
+ENSMUSG00000048920,243853,Fkrp,Glycosaminoglycan Related
+ENSMUSG00000038843,14537,Gcnt1,Glycosyltransferase
+ENSMUSG00000038296,233733,Galnt18,Glycosyltransferase
+ENSMUSG00000042363,216551,Lgalsl,Lectin/S-Type/Galectin
+ENSMUSG00000050526,240755,4933406M09Rik,Glycosyltransferase
+ENSMUSG00000034000,241159,Neu4,Glycosylhydrolase
+ENSMUSG00000026110,269181,Mgat4a,Glycosyltransferase
+ENSMUSG00000022723,224273,Crybg3,Carbohydrate Binding Module
+ENSMUSG00000041731,226041,Pgm5,Carbohydrate Synthesis and Metabolism/Metabolic Enzymes
+ENSMUSG00000096914,270049,Galntl6,Glycosyltransferase
+ENSMUSG00000047963,52331,Stbd1,Carbohydrate Binding Module
+ENSMUSG00000060402,68947,Chst8,Sulfate Related/Sulfotransferase
+ENSMUSG00000027207,69976,Galk2,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000042988,77583,Notum,Carbohydrate Esterase
+ENSMUSG00000035245,101351,Eogt,Glycosyltransferase
+ENSMUSG00000047379,108902,B4gat1,Glycosyltransferase
+ENSMUSG00000022112,103978,Gpc5,Glycosaminoglycan Related
+ENSMUSG00000033082,243653,Clec1a,Lectin/C-type/NK Receptor
+ENSMUSG00000030657,233781,Xylt1,Glycosyltransferase
+ENSMUSG00000045019,171168,Acer1,Glycolipid Related
+ENSMUSG00000041556,230904,Fbxo2,Lectin/F-box
+ENSMUSG00000031286,320302,Glt28d2,Glycosyltransferase
+ENSMUSG00000047712,338362,Ust,Sulfate Related/Sulfotransferase
+ENSMUSG00000041779,170829,Tram2,Glycolipid Related
+ENSMUSG00000075419,227697,Dolk,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000028521,242585,Slc35d1,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000046794,244416,Ppp1r3b,Carbohydrate Binding Module
+ENSMUSG00000032649,269132,Colgalt2,Glycosyltransferase
+ENSMUSG00000052395,328370,Rft1,Lipid-Linked Oligosaccharide Pathway Related
+ENSMUSG00000055629,330671,B4galnt4,Glycosyltransferase
+ENSMUSG00000070284,331026,Gmppb,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000036091,109685,Hyal3,Glycosylhydrolase
+ENSMUSG00000028671,74246,Gale,Carbohydrate Synthesis and Metabolism/Nucleotide Synthesis
+ENSMUSG00000027902,229688,Chil6,Glycosylhydrolase
+ENSMUSG00000039242,97884,B3galnt2,Glycosyltransferase
+ENSMUSG00000046605,210004,B3gntl1,Glycosyltransferase
+ENSMUSG00000043257,230801,Pigv,Glycosyltransferase
+ENSMUSG00000051504,233274,Siglech,Lectin/I-type/CD33-Related
+ENSMUSG00000027698,320024,Nceh1,Carbohydrate Esterase
+ENSMUSG00000047759,15478,Hs3st3a1,Sulfate Related/Sulfotransferase
+ENSMUSG00000069920,97440,B3gnt9,Glycosyltransferase
+ENSMUSG00000037490,353169,Slc2a12,Carbohydrate Synthesis and Metabolism/Transporter
+ENSMUSG00000022371,12818,Col14a1,Glycosaminoglycan Related
+ENSMUSG00000054843,226255,Atrnl1,Lectin/C-type/Attractin
+ENSMUSG00000033633,353287,Clec18a,Lectin/C-type/Macrophage Mannose Receptor
+ENSMUSG00000022523,14167,Fgf12,Glycosaminoglycan Related/Fibroblast Growth Factor
+ENSMUSG00000063362,207958,Alg11,Glycosyltransferase
+ENSMUSG00000031877,72361,Ces2g,Carbohydrate Esterase
+ENSMUSG00000033316,231605,Galnt9,Glycosyltransferase
+ENSMUSG00000029431,231727,B3gnt4,Glycosyltransferase
+ENSMUSG00000030074,232313,Gxylt2,Glycosyltransferase
+ENSMUSG00000047434,268880,Xxylt1,Glycosyltransferase
+ENSMUSG00000051790,216856,Nlgn2,Carbohydrate Esterase
+ENSMUSG00000041372,330406,B4galnt3,Glycosyltransferase
+ENSMUSG00000037470,320011,Uggt1,Glycosyltransferase
+ENSMUSG00000036815,269109,Dpp10,Carbohydrate Esterase
+ENSMUSG00000035704,381903,Alg8,Glycosyltransferase
+ENSMUSG00000047161,71367,Chst9,Sulfate Related/Sulfotransferase
+ENSMUSG00000056271,235416,Lman1l,Lectin/L-Type
+ENSMUSG00000094651,381334,Gal3st2,Sulfate Related/Sulfotransferase
+ENSMUSG00000041958,276846,Pigs,GPI anchor biosynthesis Related
+ENSMUSG00000090145,394435,Ugt1a6b,Glycosyltransferase
+ENSMUSG00000090165,394430,Ugt1a10,Glycosyltransferase
+ENSMUSG00000090124,394432,Ugt1a7c,Glycosyltransferase
+ENSMUSG00000089943,394433,Ugt1a5,Glycosyltransferase
+ENSMUSG00000090175,394434,Ugt1a9,Glycosyltransferase
+ENSMUSG00000089960,394436,Ugt1a1,Glycosyltransferase
+ENSMUSG00000057342,56632,Sphk2,Glycolipid Related
+ENSMUSG00000072664,105887,Ugt3a1,Glycosyltransferase
+ENSMUSG00000037306,230815,Man1c1,Glycosylhydrolase
+ENSMUSG00000039787,99151,Cercam,Glycosyltransferase
